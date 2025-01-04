@@ -26,8 +26,6 @@ Finally, because of the diversity of expert scholarly reconstructions, a seconda
 | M. Klinghardt        | grc  | 2021      | tlg2958.tlg00208  |
 | M. Bilby             | grc  | 2020/2025      | tlg2958.tlg00209  |
 
-Several more identifiers are minted for reconstruction datasets planned for future publication:
-
 ## Bibliography
 
 If you make use of any of this repository data in publications or code, please cite the corresponding peer-reviewed and published journal articles.
