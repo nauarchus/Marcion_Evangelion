@@ -11,7 +11,7 @@ The openly licensed (CC 1.0) datasets allow for generous usage. The more restric
 Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our research team.
 
 | Author               | Lang | Date      | CTS URN           | Dataset DOI                                           | License       |
-|-----------------------|-----------------------|------|-----------|-------------------|-----------------------------------------------------|---------------|
+|-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
 | A. Hahn              | grc  | 1832      | tlg2958.tlg00201  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
 | T. Zahn            | grc  | 1892      | tlg2958.tlg00202  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
 | A. von Harnack       | grc  | 1924      | tlg2958.tlg00203  | [10.7910/DVN/5TEA5A](https://doi.org/10.7910/DVN/5TEA5A) | CC0 1.0       |
