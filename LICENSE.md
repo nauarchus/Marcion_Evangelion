@@ -8,7 +8,7 @@ Files in this repo reflect further corrections, refinements, and transformations
 
 The openly licensed (CC 1.0) datasets allow for generous usage. The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the authors and/or copyright holders of the corresponding print works and are applied to protect our research team's work in progress. Copyright of all datasets is held by Mark G. Bilby, together with co-authors when noted. 
 
-Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our research team.
+Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our team.
 
 | Author               | Lang | Date      | CTS URN           | Dataset DOI                                           | License       |
 |-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
