@@ -1,5 +1,3 @@
-# Marcion_Evangelion
-
 ## Description
 
 A repository dedicated to hosting expert-curated datasets of the Evangelion/Evangelium of Marcion.
