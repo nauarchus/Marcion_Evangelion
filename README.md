@@ -4,7 +4,7 @@ A repository dedicated to hosting expert-curated datasets of the Evangelion/Evan
 
 ## Licenses & Terms of Re-Use
 
-*See the Licenses page in this repo for detailed information about dataset licenses and terms of reuse.*
+*See the [License](https://github.com/nauarchus/Marcion_Evangelion/blob/main/LICENSE.md) page in this repo for detailed information about dataset licenses and terms of reuse.*
 
 ## Bibliography
 
