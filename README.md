@@ -8,7 +8,7 @@ A repository dedicated to hosting expert-curated datasets of the Evangelion/Evan
 
 *See the Licenses page in this repo for detailed information about dataset licenses and terms of reuse.*
 
-| Author                | Title                 | Lang | Date      | CTS URN           | Dataset DOI                                           | License       |
+| Author                | Title                 | Lang | Date      | CTS URN           | JOHD Dataset DOI                                           | License       |
 |-----------------------|-----------------------|------|-----------|-------------------|-----------------------------------------------------|---------------|
 | A. Hahn              | Evangelium Marcionis | grc  | 1832      | tlg2958.tlg00201  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
 | T. Zahn              | Evangelium Marcionis | grc  | 1892      | tlg2958.tlg00202  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
