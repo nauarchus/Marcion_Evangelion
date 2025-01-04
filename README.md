@@ -8,7 +8,7 @@ See the [License](https://github.com/nauarchus/Marcion_Evangelion/blob/main/LICE
 
 ## Bibliography
 
-If you make use of any of this data in publications or code, please cite the corresponding peer-reviewed and published journal articles.
+If you make use of any of this repository data in publications or code, please cite the corresponding peer-reviewed and published journal articles.
 
 > Bilby, Mark G. "Normalized Datasets of Hahn's and Zahn's Reconstructions of Marcion's Gospel." *Journal of Open Humanities Data* 7.31 (2021): 1–5. [doi:10.5334/johd.63](https://doi.org/10.5334/johd.63)
 
