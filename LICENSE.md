@@ -1,14 +1,14 @@
 ## Licenses & Terms of Re-Use
 
-All data and code in this repo are copyright © 2024 by Mark G. Bilby unless otherwise noted in the files.
+All of the normalized Greek datasets below were peer-reviewed and published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations. Files in this repo reflect further corrections, refinements, and transformations beyond those previous publications. 
 
-These normalized datasets were peer-reviewed and published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations.
+Licenses for these follow-on works are indicated in the following table. The openly licensed (CC 1.0) datasets allow for generous usage. The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the authors and/or copyright holders of the corresponding print works and are applied to protect our research team's work in progress. 
 
-Files in this repo reflect further corrections, refinements, and transformations beyond those previous publications. Licenses for these follow-on works are indicated in the following table. All other rights reserved.
-
-The openly licensed (CC 1.0) datasets allow for generous usage. The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the authors and/or copyright holders of the corresponding print works and are applied to protect our research team's work in progress. Copyright of all datasets is held by Mark G. Bilby, together with co-authors when noted. 
+Datasets in this repo are © 2024 by Mark G. Bilby, together with co-authors when noted in specific files.
 
 Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our team.
+
+## Greek Editions
 
 | Author               | Lang | Date      | CTS URN           | Dataset DOI                                           | License       |
 |-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
@@ -21,6 +21,14 @@ Please reach out if you have any questions, are requesting permissions for certa
 | A. Nicolotti         | grc  | 2019      | tlg2958.tlg00207  | [10.7910/DVN/JGL7LB](https://doi.org/10.7910/DVN/JGL7LB) | CC BY-NC-ND 4.0 |
 | M. Klinghardt        | grc  | 2021      | tlg2958.tlg00208  | [10.7910/DVN/BVEOEX](https://doi.org/10.7910/DVN/BVEOEX) | CC BY-NC-ND 4.0 |
 | M. Bilby        | grc  | 2020/2025      | tlg2958.tlg00209  | [10.5281/zenodo.3927056](https://doi.org/10.5281/zenodo.3927056) | CC BY-NC-ND 4.0 |
+
+## Latin Editions
+
+A normalized version of Tsutsui's Latin edition of Marcion's Evangelion is also made available. 
+
+| Author               | Lang | Date      | CTS URN           | Dataset DOI                                           | License       |
+|-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
+| K. Tsutsui           | lat  | 1992      | tlg2958.tlg00204  | N/A                                                 | CC BY-NC-ND 4.0 |
 
 ## General Disclaimer
 
