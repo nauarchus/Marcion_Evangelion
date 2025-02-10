@@ -22,8 +22,8 @@ Finally, because of the diversity of expert scholarly reconstructions, a seconda
 | K. Tsutsui           | lat  | 1992      | tlg2958.tlg00204  |
 | J. D. BeDuhn         | grc  | 2023      | tlg2958.tlg00205  | 
 | D. T. Roth          | grc  | 2015      | tlg2958.tlg00206  | 
-| A. Nicolotti         | grc  | 2019      | tlg2958.tlg00207  | 
-| M. Klinghardt        | grc  | 2021      | tlg2958.tlg00208  |
+| M. Klinghardt        | grc  | 2021      | tlg2958.tlg00207  |
+| A. Nicolotti         | grc  | 2019      | tlg2958.tlg00208  | 
 | M. Bilby             | grc  | 2020/2025      | tlg2958.tlg00209  |
 
 ## Bibliography

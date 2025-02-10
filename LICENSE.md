@@ -18,8 +18,8 @@ Please reach out if you have any questions, are requesting permissions for certa
 | K. Tsutsui           | lat  | 1992      | tlg2958.tlg00204  | N/A                                                 | CC BY-NC-ND 4.0 |
 | J. D. BeDuhn         | grc  | 2023      | tlg2958.tlg00205  | [10.7910/DVN/UQVGW6](https://doi.org/10.7910/DVN/UQVGW6) | CC BY-NC-ND 4.0 |
 | D. T. Roth          | grc  | 2015      | tlg2958.tlg00206  | [10.7910/DVN/BYPOOR](https://doi.org/10.7910/DVN/BYPOOR) | CC BY-NC-ND 4.0 |
-| A. Nicolotti         | grc  | 2019      | tlg2958.tlg00207  | [10.7910/DVN/JGL7LB](https://doi.org/10.7910/DVN/JGL7LB) | CC BY-NC-ND 4.0 |
 | M. Klinghardt        | grc  | 2021      | tlg2958.tlg00208  | [10.7910/DVN/BVEOEX](https://doi.org/10.7910/DVN/BVEOEX) | CC BY-NC-ND 4.0 |
+| A. Nicolotti         | grc  | 2019      | tlg2958.tlg00207  | [10.7910/DVN/JGL7LB](https://doi.org/10.7910/DVN/JGL7LB) | CC BY-NC-ND 4.0 |
 | M. Bilby        | grc  | 2020/2025      | tlg2958.tlg00209  | [10.5281/zenodo.3927056](https://doi.org/10.5281/zenodo.3927056) | CC BY-NC-ND 4.0 |
 
 ## Latin Editions
