@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2958" projid="greekLit:tlg2958" urn="urn:cts:greekLit:tlg2958.tlg205" xml:lang="grc">
+   
+   <ti:title xml:lang="eng">Gospel of Marcion [BeDuhn]</ti:title>
+   <ti:title xml:lang="eng">Marcion's Gospel [BeDuhn]</ti:title>
+   <ti:title xml:lang="lat">Evangelium Marcionis [BeDuhn]</ti:title>
+ 
+   <ti:edition urn="urn:cts:greekLit:tlg2958.tlg205.src-grc1" workUrn="urn:cts:greekLit:tlg2958.tlg205" xml:lang="grc">
+      <ti:label xml:lang="eng">Gospel of Marcion [BeDuhn]</ti:label>
+	<ti:label
+   </ti:edition>
+        
+</ti:work>

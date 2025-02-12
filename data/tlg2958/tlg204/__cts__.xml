@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:tlg2958" projid="greekLit:tlg2958" urn="urn:cts:greekLit:tlg2958.tlg204" xml:lang="lat">
+   
+   <ti:title xml:lang="eng">Gospel of Marcion [Tsutsui]</ti:title>
+   <ti:title xml:lang="eng">Marcion's Gospel [Tsutsui]</ti:title>
+   <ti:title xml:lang="lat">Evangelium Marcionis [Tsutsui]</ti:title>
+ 
+   <ti:edition urn="urn:cts:latinLit:tlg2958.tlg204.src-lat1" workUrn="urn:cts:latinLit:tlg2958.tlg204" xml:lang="lat">
+      <ti:label xml:lang="eng">Gospel of Marcion [Tsutsui]</ti:label>
+	<ti:label
+   </ti:edition>
+        
+</ti:work>
