@@ -22,7 +22,11 @@
 						under a CC BY-NC-ND
 						(Creative Commons Attribution Non-Commercial No-Derivatives)
 						4.0 International License</licence>
-					<p> © 2025 Clavis Consulting, LLC (Kansas)</p>
+					<p> © 2025 Clavis Consulting, LLC (Kansas). All rights reserved. Those wishing
+						to make commercial and/or derivative use of this data should reach out to
+						Mark G. Bilby for permissions.
+						None of this data in or for large language models, neural
+						nets, or machine learning projects without prior written permission.</p>
 				</availability>
 				<date when="2025-02-14"> </date>
 				<idno type="TLG"> tlg2958.tlg002</idno>
@@ -40,9 +44,9 @@
 							https://doi.org/10.5281/zenodo.3927056</ref>
 					</analytic>
 					<monogr>
-						<title level="m"> The First Gospel, the Gospel of the Poor: 
-						A New Reconstruction of Q and Resolution of the Synoptic Problem 
-						based on Marcion's Early Luke</title>
+						<title level="m"> The First Gospel, the Gospel of the Poor:
+							A New Reconstruction of Q and Resolution of the Synoptic Problem
+							based on Marcion's Early Luke</title>
 						<idno type="isbn"> 979-8-9877688-0-8</idno>
 						<respStmt>
 							<resp>by</resp>
@@ -1607,14 +1611,12 @@
 						<div type="textpart" subtype="verse" n="59" source="#Qn">
 							<p> ⟪καὶ λέγει⟫ ⟨τῷ Φιλίππῳ⟩· </p>
 							<p>
-								<said who="#Jesus"> ⟪ἀκολούθει μοι. </said>
+								<said who="#Jesus"> ⟪ἀκολούθει μοι.⟫ </said>
 							</p>
-							<p> ὁ δὲ εἶπεν· </p>
+							<p> ⟪ὁ δὲ εἶπεν·⟫ </p>
 							<p>
-								<said who="#Phillip"> ἐπίτρεψόν μοι πρῶτον ἀπελθεῖν καὶ⟫
-									θάψαι τὸν
-									πατέρα
-									μου. </said>
+								<said who="#Phillip"> ⟪ἐπίτρεψόν μοι πρῶτον ἀπελθεῖν καὶ⟫
+									θάψαι τὸν πατέρα μου. </said>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="60" source="#Qn">
@@ -1624,16 +1626,15 @@
 									νεκρούς. </said>
 							</p>
 							<p>
-								<said who="#Jesus"> σὺ δὲ ⸄πορευθεὶς⸅ διάγγελλε τὴν βασιλείαν
-									τοῦ
-									θεοῦ. </said>
+								<said who="#Jesus"> σὺ δὲ ⸄πορευθεὶς⸅
+									διάγγελλε τὴν βασιλείαντοῦ θεοῦ. </said>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="61" source="#Qn">
 							<p> ⟪καὶ λέγει τις·⟫ </p>
 							<p>
-								<said who="#extras"> ⟪ἀκολουθήσω σοι⟫, ⟨πρῶτον⟩ ⟪δὲ ἐπίτρεψόν
-									μοι⟫
+								<said who="#extras"> ⟪ἀκολουθήσω σοι⟫,
+									⟨πρῶτον⟩ ⟪δὲ ἐπίτρεψόν μοι⟫
 									⸄ἀσπάζεσθαι⸅ ⸂τοῖς ⸄ἰδίοις⸅⸃. </said>
 							</p>
 						</div>
@@ -1654,14 +1655,12 @@
 						<div type="textpart" subtype="verse" n="2" source="#Qn">
 							<p> ⟪ἔλεγεν αὐτοῖς·⟫ </p>
 							<p>
-								<said who="#Jesus"> ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται
-									ὀλίγοι· </said>
+								<said who="#Jesus"> ὁ μὲν θερισμὸς πολύς,
+									οἱ δὲ ἐργάται ὀλίγοι· </said>
 							</p>
 							<p>
-								<said who="#Jesus"> δεήθητε τοῦ κυρίου τοῦ θερισμοῦ, ὅπως
-									ἐργάτας
-									ἐκβάλῃ εἰς
-									τὸν θερισμὸν αὐτοῦ.⟫ </said>
+								<said who="#Jesus"> δεήθητε τοῦ κυρίου τοῦ θερισμοῦ,
+									ὅπως ἐργάτας ἐκβάλῃ εἰς τὸν θερισμὸν αὐτοῦ.⟫ </said>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="3" source="#Qn">
