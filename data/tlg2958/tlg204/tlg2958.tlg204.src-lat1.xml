@@ -17,6 +17,20 @@
 			<publicationStmt>
 				<publisher>Clavis Consulting, LLC (Kansas)</publisher>
 				<pubPlace>Kansas City, KS, USA</pubPlace>
+				<distributor>@nauarchus account on GitHub</distributor>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/">Available
+						under a
+						Creative Commons Attribution Non-commerical No-derivatives 4.0 International
+						License</licence>
+					<p> © 2025 Clavis Consulting, LLC (Kansas).
+						Those wishing to make commercial and/or derivative use of this data should
+						request permissions from Kenji Tsutsui (as the copyright holder of the
+						original print work) and Mark G. Bilby as principal of Clavis Consulting,
+						LLC (Kansas), the copyright holder of the normalized digital versions. 
+						None of this data may be used in or for large language models, neural
+						nets, or machine learning projects without prior written permission.</p>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>

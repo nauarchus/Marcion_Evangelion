@@ -17,6 +17,12 @@
 			<publicationStmt>
 				<publisher>Clavis Consulting, LLC (Kansas)</publisher>
 				<pubPlace>Kansas City, KS, USA</pubPlace>
+				<distributor>@nauarchus account on GitHub</distributor>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">Available under a
+						Creative Commons Attribution 4.0 International License</licence>
+					<p> © 2025 Clavis Consulting, LLC (Kansas)</p>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
