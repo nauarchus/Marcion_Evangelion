@@ -16,15 +16,15 @@ Finally, because of the diversity of expert scholarly reconstructions, a seconda
 
 | Author               | Lang | Date      | CTS URN           | 
 |-----------------------|-----------|------------|------------------|
-| A. Hahn              | grc  | 1832      | tlg2958.tlg00201  |
-| T. Zahn            | grc  | 1892      | tlg2958.tlg00202  | 
-| A. von Harnack       | grc  | 1924      | tlg2958.tlg00203  | 
-| K. Tsutsui           | lat  | 1992      | tlg2958.tlg00204  |
-| J. D. BeDuhn         | grc  | 2023      | tlg2958.tlg00205  | 
-| D. T. Roth          | grc  | 2015      | tlg2958.tlg00206  | 
-| M. Klinghardt        | grc  | 2021      | tlg2958.tlg00207  |
-| A. Nicolotti         | grc  | 2019      | tlg2958.tlg00208  | 
-| M. Bilby             | grc  | 2020/2025      | tlg2958.tlg00209  |
+| A. Hahn              | grc  | 1832      | tlg2958.tlg002.src-grc1  |
+| T. Zahn            | grc  | 1892      | tlg2958.tlg002.src-grc2  | 
+| A. von Harnack       | grc  | 1924      | tlg2958.tlg002.src-grc3  | 
+| K. Tsutsui           | lat  | 1992      | tlg2958.tlg002.src-grc4  |
+| J. D. BeDuhn         | grc  | 2023      | tlg2958.tlg002.src-grc5  | 
+| D. T. Roth          | grc  | 2015      | tlg2958.tlg002.src-grc6  | 
+| M. Klinghardt        | grc  | 2021      | tlg2958.tlg002.src-grc7  |
+| A. Nicolotti         | grc  | 2019      | tlg2958.tlg002.src-grc8  | 
+| M. Bilby             | grc  | 2020/2025      | tlg2958.tlg002.src-grc9  |
 
 ## Bibliography
 
@@ -41,3 +41,5 @@ If you make use of any of this repository data in publications or code, please c
 > Bilby, Mark G. "Normalized Datasets of Roth's Reconstruction of Marcion's Gospel." *Journal of Open Humanities Data* 7.27 (2021): 1–6. [doi:10.5334/johd.57](https://doi.org/10.5334/johd.57)
 
 > Bilby, Mark G. "Normalized Datasets of Klinghardt's and Nicolotti's Reconstructions of Marcion's Gospel." *Journal of Open Humanities Data* 7.32 (2021): 1–6. [doi:10.5334/johd.70](https://doi.org/10.5334/johd.70)
+
+> Bilby, Mark G. The First Gospel, the Gospel of the Poor: A New Reconstruction of Q and Resolution of the Synoptic Problem based on Marcion's Early Luke. Clavis Consulting, LLC (Kansas): Kansas City, 2020/2025. 
