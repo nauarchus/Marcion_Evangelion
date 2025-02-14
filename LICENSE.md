@@ -13,7 +13,7 @@ Please reach out if you have any questions, are requesting permissions for certa
 ## Greek Editions
 
 | Author               | Date      | CTS URN           | Dataset DOI                                           | License       |
-|-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
+|-----------------------|------------|------------------|--------------------------------------------------|----------------------------|
 | A. Hahn              | 1832      | tlg2958.tlg002.src-grc1  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
 | T. Zahn            | 1892      | tlg2958.tlg002.src-grc2  | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
 | A. von Harnack       | 1924      | tlg2958.tlg002.src-grc3  | [10.7910/DVN/5TEA5A](https://doi.org/10.7910/DVN/5TEA5A) | CC0 1.0       |
