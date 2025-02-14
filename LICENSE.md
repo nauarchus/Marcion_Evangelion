@@ -1,12 +1,12 @@
 ## Licenses & Terms of Re-Use
 
-All of the normalized Greek datasets below were peer-reviewed and published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations. Files in this repository reflect further corrections, refinements, and transformations beyond those previous publications. 
+Most of the normalized Greek datasets below were peer-reviewed and published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations. Files in this repository reflect further corrections, refinements, and transformations beyond those previous publications. Licenses for these follow-on works are indicated in the following table. 
 
-Licenses for these follow-on works are indicated in the following table. The openly licensed (CC 1.0) datasets allow for generous usage. 
+The openly licensed (CC 1.0) datasets allow for generous usage. The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the authors and/or copyright holders of the corresponding print works and are applied to protect our research team's work in progress. 
 
-The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the authors and/or copyright holders of the corresponding print works and are applied to protect our research team's work in progress. Those wishing to make commercial and/or derivative use of this data should read out to the rights holders to request permissions. None of this data may be used in or for large language models, neural nets, or machine learning projects without prior written permission. 
+Those wishing to make commercial and/or derivative use of this data should read out to the rights holders to request permissions. None of the data distributed under a CC BY-NC-ND license may be used in or for large language models, neural nets, or machine learning projects without prior written permission. 
 
-Datasets in this repo are © 2024 by Mark G. Bilby, together with co-authors when noted in specific files.
+Datasets in this repo are © 2025 by Mark G. Bilby, together with co-authors when noted in specific files.
 
 Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our team.
 
