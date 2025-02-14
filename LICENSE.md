@@ -28,7 +28,7 @@ Please reach out if you have any questions, are requesting permissions for certa
 A normalized version of Tsutsui's Latin edition of Marcion's Evangelion is also made available. 
 
 | Author               | Date      | CTS URN           | Dataset DOI                                           | License       |
-|-----------------------|-----------|------------|------------------|--------------------------------------------------|----------------------------|
+|-----------------------|------------|------------------|--------------------------------------------------|----------------------------|
 | K. Tsutsui           | 1992      | tlg2958.tlg002.src-lat4  | N/A                                                 | CC BY-NC-ND 4.0 |
 
 ## General Disclaimer
