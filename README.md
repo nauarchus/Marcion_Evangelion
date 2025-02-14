@@ -8,11 +8,7 @@ See the [License](https://github.com/nauarchus/Marcion_Evangelion/blob/main/LICE
 
 ## File Names and CTS_URN Conventions
 
-The files in this repo all adopt the cts_urn author identifer prefix for Marcion of Sinope (tlg2958). 
-
-They also effectively mint new cts_urn suffixes for the works of Marcion. The minted suffix for Marcion's Evangelion is tlg002.
-
-Finally, because of the diversity of expert scholarly reconstructions, a secondary suffix is minted, corresponding to each major editor:
+The files in this repo all adopt the cts_urn author identifer prefix for Marcion of Sinope (tlg2958) and effectively mint new cts_urn document id for the Evangelion of Marcion (tlg002). The number after "grc" corresponds to its edition, following the historical order of the respective publications.
 
 | Author               | Lang | Date      | CTS URN           | 
 |-----------------------|-----------|------------|------------------|
