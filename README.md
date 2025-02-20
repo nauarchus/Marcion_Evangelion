@@ -6,9 +6,19 @@ A repository dedicated to hosting expert-curated datasets of the Evangelion/Evan
 
 See the [License](https://github.com/nauarchus/Marcion_Evangelion/blob/main/LICENSE.md) page in this repo for detailed information about dataset licenses and terms of reuse.
 
+## File Types and Encodings
+
+Each dataset typically has four manifestations:
+* .txt file with human-readable Greek and each verse having its own row
+* .txt file with words lemmatized and morphologically tagged following the BibleWorks Greek Morphology schema
+* .xml file formatted according to the conventions of the Perseus Digital Library and/or Patristic Text Archive
+* .csv "sprout" file that combines the three types of data above, assigning tokens to punctuation for sentence segmentation
+
+All datasets use UTF-8 encoding and decomposed Unicode characters. When comparing these datasets with datasets that use composed unicode characters, it may be necessary to convert between composed and decomposed characters for best results.
+
 ## File Names and CTS_URN Conventions
 
-The files in this repo all adopt the cts_urn author identifer prefix for Marcion of Sinope (tlg2958) and effectively mint new cts_urn document id for the Evangelion of Marcion (tlg002). The number after "grc" corresponds to its edition, following the historical order of the respective publications.
+The files in this repository all adopt the cts_urn author identifer prefix for Marcion of Sinope (tlg2958) and effectively mint new cts_urn document id for the Evangelion of Marcion (tlg002). The number after "grc" corresponds to its edition, following the historical order of the respective publications.
 
 | Author               | Lang | Date      | CTS URN           | 
 |-----------------------|-----------|------------|------------------|
