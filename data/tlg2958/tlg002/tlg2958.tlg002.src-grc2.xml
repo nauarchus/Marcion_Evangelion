@@ -4,93 +4,193 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title type="work">Evangelion</title>
-				<author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author>
-				<editor ref="https://viaf.org/viaf/22941633">Theodor Zahn</editor>
-				<editor ref="http://viaf.org/viaf/307315499">Mark Glen Bilby</editor>
-				<principal>Mark G. Bilby</principal>
+				<title type="work">
+					Evangelion
+				</title>
+				<author ref="https://viaf.org/viaf/98032732">
+					Marcion of Sinope
+				</author>
+				<editor ref="https://viaf.org/viaf/22941633">
+					Theodor Zahn
+				</editor>
+				<editor ref="http://viaf.org/viaf/307315499">
+					Mark Glen Bilby
+				</editor>
+				<principal>
+					Mark G. Bilby
+				</principal>
 				<respStmt>
-					<resp>Prepared under the supervision of</resp>
-					<name>Mark G. Bilby</name>
+					<resp>
+						Transcribed, normalized, and encoded by
+					</resp>
+					<persName xml:id="MGB">
+						Mark G. Bilby
+					</persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>Clavis Consulting, LLC (Kansas)</publisher>
-				<pubPlace>Kansas City, KS, USA</pubPlace>
-				<distributor>@nauarchus account on GitHub</distributor>
+				<publisher>
+					Clavis Consulting, LLC (Kansas)
+				</publisher>
+				<pubPlace>
+					Kansas City, KS, USA
+				</pubPlace>
+				<distributor>
+					@nauarchus account on GitHub
+				</distributor>
 				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">Available under a
-						Creative Commons Attribution 4.0 International License</licence>
-					<p> © 2025 Clavis Consulting, LLC (Kansas)</p>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						Available under a
+						Creative Commons Attribution 4.0 International License
+					</licence>
+					<p>
+						© 2025 Clavis Consulting, LLC (Kansas)
+					</p>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
-						<author ref="https://viaf.org/viaf/22941633">Theodor Zahn</author>
-						<title level="a">Geschichte des neutestamentlichen Kanons</title>
-						<idno type="ARK">13960/t8cf9s958</idno>
+						<author ref="https://viaf.org/viaf/307315499">
+							Mark G. Bilby
+						</author>
+						<title level="a">
+							Normalized Datasets of Hahn's and Zahn's Reconstructions of Marcion's Gospel
+						</title>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<idno type="DOI">
+							10.7910/DVN/BYNHX6
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/BYNHX6">
+							https://doi.org/10.7910/DVN/BYNHX6
+						</ref>
+					</analytic>
+					<analytic>
+						<author ref="https://viaf.org/viaf/22941633">
+							Theodor Zahn
+						</author>
+						<title level="a">
+							Geschichte des neutestamentlichen Kanons
+						</title>
+						<idno type="ARK">
+							13960/t8cf9s958
+						</idno>
 						<ref target="https://n2t.net/ark:/13960/t8cf9s958">
-							https://n2t.net/ark:/13960/t8cf9s958</ref>
+							https://n2t.net/ark:/13960/t8cf9s958
+						</ref>
 					</analytic>
 					<monogr>
-						<title level="m">Geschichte des neutestamentlichen Kanons</title>
-						<idno type="LC">37029996</idno>
+						<title level="m">
+							Geschichte des neutestamentlichen Kanons
+						</title>
+						<idno type="LC">
+							37029996
+						</idno>
 						<respStmt>
-							<resp>von</resp>
-							<name>Theodor Zahn</name>
+							<resp>
+								von
+							</resp>
+							<name>
+								Theodor Zahn
+							</name>
 						</respStmt>
 						<imprint>
-							<pubPlace>Erlangen</pubPlace>
-							<publisher>A. Deichert</publisher>
-							<date>1892</date>
+							<pubPlace>
+								Erlangen
+							</pubPlace>
+							<publisher>
+								A. Deichert
+							</publisher>
+							<date>
+								1892
+							</date>
 						</imprint>
-						<biblScope unit="volume">2</biblScope>
-						<biblScope unit="part">2</biblScope>
-						<biblScope unit="page">455-494</biblScope>
+						<biblScope unit="volume">
+							2
+						</biblScope>
+						<biblScope unit="part">
+							2
+						</biblScope>
+						<biblScope unit="page">
+							455-494
+						</biblScope>
 					</monogr>
 				</biblStruct>
 				<listBibl>
 					<bibl xml:id="Zahn">
-						<title level="m">Geschichte des neutestamentlichen Kanons</title>
-						<idno type="LC">37029996</idno>
+						<title level="m">
+							Geschichte des neutestamentlichen Kanons
+						</title>
+						<idno type="LC">
+							37029996
+						</idno>
 						<respStmt>
-							<resp>von</resp>
-							<name>Theodor Zahn</name>
+							<resp>
+								von
+							</resp>
+							<name>
+								Theodor Zahn
+							</name>
 						</respStmt>
-						<biblScope unit="volume">2</biblScope>
-						<biblScope unit="part">2</biblScope>
-						<biblScope unit="page">455-494</biblScope>
+						<biblScope unit="volume">
+							2
+						</biblScope>
+						<biblScope unit="part">
+							2
+						</biblScope>
+						<biblScope unit="page">
+							455-494
+						</biblScope>
 					</bibl>
 					<bibl xml:id="EOCM">
-						<abbr type="siglum">EOCM</abbr>
-						<author>Constantin Tischendorf</author>
-						<title level="m">Novum Testamentum Graece</title>
-						<biblScope unit="vol">1</biblScope>
-						<pubPlace>Leipzig</pubPlace>
-						<publisher>Giesecke &amp; Devrient</publisher>
-						<date when="1869">1869</date>
+						<abbr type="siglum">
+							EOCM
+						</abbr>
+						<author>
+							Constantin Tischendorf
+						</author>
+						<title level="m">
+							Novum Testamentum Graece
+						</title>
+						<biblScope unit="vol">
+							1
+						</biblScope>
+						<pubPlace>
+							Leipzig
+						</pubPlace>
+						<publisher>
+							Giesecke &amp; Devrient
+						</publisher>
+						<date when="1869">
+							1869
+						</date>
 					</bibl>
 				</listBibl>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-			<!--<tagsDecl> 
- <rendition id="large"> </rendition> 
- <rendition id="blockquote"> </rendition> 
- <rendition id="header"> </rendition> 
- <tagUsage render="header" gi="head"> </tagUsage> 
- <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage> 
- <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage> 
- </tagsDecl>-->
+			<!--
+			<tagsDecl>
+			<rendition id="large"> </rendition>
+			<rendition id="blockquote"> </rendition>
+			<rendition id="header"> </rendition>
+			<tagUsage render="header" gi="head"> </tagUsage>
+			<tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage>
+			<tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage>
+			</tagsDecl>
+			-->
 			<refsDecl n="CTS">
-				<cRefPattern n="verse" matchPattern="(\w+).(\w+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
-					<p> This pointer pattern extracts chapter and verse</p>
+				<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+					<p>
+						This pointer pattern extracts chapter and verse
+					</p>
 				</cRefPattern>
-				<cRefPattern n="chapter" matchPattern="(\w+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-					<p> This pointer pattern extracts chapter</p>
+				<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+					<p>
+						This pointer pattern extracts chapter
+					</p>
 				</cRefPattern>
 			</refsDecl>
 		</encodingDesc>
@@ -98,27 +198,39 @@
 	<text xml:lang="grc">
 		<body>
 			<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00202-src-grc1">
-
 				<pb n="455" />
 				<div type="textpart" subtype="book" n="Ev">
-					<head>Εὐαγγέλιον.</head>
+					<head>
+						Εὐαγγέλιον.
+					</head>
 					<div type="textpart" subtype="chapter" n="3">
 						<div type="textpart" subtype="verse" n="1a">
 							<p>
-								<milestone unit="para" /> Ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου
-								Καίσαρος ἐπι τῶν χρόνων Ποντίου <app type="variants">
+								<milestone unit="para" />
+								Ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου
+								Καίσαρος ἐπι τῶν χρόνων Ποντίου
+								<app type="variants">
 									<lem resp="#Zahn">
-										Ποντίου</lem>
+										Ποντίου
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										Ποντίου</rdg>
+										Ποντίου
+									</rdg>
 								</app>
-								Πιλάτου </p>
+								Πιλάτου
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="4">
 						<div type="textpart" subtype="verse" n="31">
-							<p> κατῆλθεν <pb n="456" />ὁ Ἰησοῦς εἰς Καφαρναόυμ, πόλιν τῆς
-								Γαλιλαίας, καὶ ἦν διδάσκων ἐν τῇ συναγωγῇ. </p>
+							<p>
+								κατῆλθεν
+								<pb n="456" />
+								ὁ Ἰησοῦς εἰς Καφαρναόυμ, πόλιν τῆς
+								Γαλιλαίας, καὶ ἦν διδάσκων
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								ἐν τῇ συναγωγῇ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="32">
 							<p>
@@ -160,14 +272,21 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="16">
-							<p> καὶ ἦλθεν εἰς Ναζαρὲθ, <pb n="457" />καὶ εἰσῆλθεν κατὰ τὸ
-								εἰωθὸς αὐτῷ <app type="variants">
+							<p>
+								καὶ ἦλθεν εἰς Ναζαρὲθ,
+								<pb n="457" />
+								καὶ εἰσῆλθεν κατὰ τὸ
+								εἰωθὸς αὐτῷ
+								<app type="variants">
 									<lem resp="#Zahn">
-										κατὰ τὸ εἰωθὸς αὐτῷ</lem>
+										κατὰ τὸ εἰωθὸς αὐτῷ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										κατὰ τὸ εἰωθὸς αὐτῷ</rdg>
+										κατὰ τὸ εἰωθὸς αὐτῷ
+									</rdg>
 								</app>
-								ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγήν. </p>
+								ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγήν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23a">
 							<p>
@@ -221,8 +340,7 @@
 									κραυγάζοντα καὶ λέγοντα ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ.
 									καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν.
 								</supplied>
-								<pb
-									n="458" />
+								<pb n="458" />
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="42">
@@ -381,8 +499,13 @@
 									ἀλλὰ ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ,
 									καὶ
 								</supplied>
-								προσένεγκε ὃ προσέταξε Μωϋσῆς, ἵνα ᾖ μαρτύριον τοῦτο
-								ὑμῖν. </p>
+								προσένεγκε
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								ὃ προσέταξε Μωϋσῆς, ἵνα ᾖ
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								μαρτύριον τοῦτο
+								ὑμῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="18">
 							<p>
@@ -444,16 +567,19 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="24">
-							<p> ἵνα δὲ <supplied reason="omission" source="#EOCM" resp="#MGB">
-								εἰδῆτε ὅτι
-								</supplied> ἐξουσίαν ἔχει ὁ
-								υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς, <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								ἵνα δὲ
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
+									εἰδῆτε ὅτι
+								</supplied>
+								ἐξουσίαν ἔχει ὁ
+								υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									εἶπεν τῷ παραλελυμένῳ·
 									σοὶ λέγω,
 								</supplied>
-								ἔγειρε καὶ ἆρον τὸν κράβατόν σου <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+								ἔγειρε καὶ ἆρον τὸν κράβατόν σου
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									πορεύου εἰς τὸν οἶκόν σου.
 								</supplied>
 							</p>
@@ -491,12 +617,14 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="34">
-							<p> μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος, <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐν ᾧ ὁ νυμφίος μετ᾽ αὐτῶν ἐστιν,
 									ποιῆσαι
 								</supplied>
-								νηστεῦσαι. </p>
+								νηστεῦσαι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="35">
 							<p>
@@ -508,31 +636,46 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="36a">
-							<p> ἔλεγε δὲ καὶ παραβολὴν αὐτοῖς. </p>
+							<p>
+								ἔλεγε δὲ καὶ παραβολὴν αὐτοῖς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="37">
-							<p> οὐ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς, </p>
+							<p>
+								οὐ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς,
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="38">
-							<p> ἀλλὰ <app type="variants">
+							<p>
+								ἀλλὰ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἀλλὰ</lem>
+										ἀλλὰ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἀλλὰ</rdg>
+										ἀλλὰ
+									</rdg>
 								</app>
 								βάλλουσιν οἶνον νέον εἰς ἀσκοὺς νέους, καὶ ἀμφότεροι
-								συντηροῦνται· </p>
+								συντηροῦνται·
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="36b">
-							<p> καὶ <app type="variants">
+							<p>
+								καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
-								</app> οὐδεὶς
+										καὶ
+									</rdg>
+								</app>
+								οὐδεὶς
 								ἐπιβάλλει ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ·
 								εἰ δὲ μήγε, καὶ τὸ πλήρωμα αἴρει καὶ τῷ παλαιῷ οὐ
-								συμφωνήσει· μεῖζον γὰρ σχίσμα γενήσεται. </p>
+								συμφωνήσει· μεῖζον γὰρ σχίσμα γενήσεται.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="6">
@@ -542,10 +685,10 @@
 									ἐγένετο δὲ ἐν σαββάτῳ δευτεροπρώτῳ διαπορεύεσθαι
 									αὐτὸν διὰ σπορίμων,
 								</supplied>
-								οἱ δὲ μαθηταὶ αὐτοῦ ἐπείνασαν <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+								οἱ δὲ μαθηταὶ αὐτοῦ ἐπείνασαν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ ἔτιλλον τοὺς στάχυας καὶ ἤσθιον ψώχοντες ταῖς
-								χερσίν.
+									χερσίν.
 								</supplied>
 							</p>
 						</div>
@@ -580,9 +723,12 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ ἔλεγεν αὐτοῖς ὅτι
-								</supplied> κύριός
-								ἐστιν <pb
-									n="460" />ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου. </p>
+								</supplied>
+								κύριός
+								ἐστιν
+								<pb n="460" />
+								ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="6">
 							<p>
@@ -620,7 +766,8 @@
 									ἐπερωτῶ ὑμᾶς
 								</supplied>
 								εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ μή, ψυχὴν σῶσαι
-								ἢ ἀπολέσαι. </p>
+								ἢ ἀπολέσαι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="10">
 							<p>
@@ -689,12 +836,13 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="17">
-							<p> καὶ καταβὰς ἐν αὐτοῖς <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								καὶ καταβὰς ἐν αὐτοῖς
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἔστη ἐπὶ τόπου πεδινοῦ,
 									καὶ ὄχλος πολὺς μαθητῶν αὐτοῦ,
 									καὶ πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς Ἰουδαίας καὶ
-								Ἱερουσαλὴμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος,
+									Ἱερουσαλὴμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος,
 								</supplied>
 							</p>
 						</div>
@@ -707,55 +855,85 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="19a">
-							<p> καὶ πᾶς ὁ ὄχλος ἐζήτει ἅπτεσθαι αὐτοῦ. </p>
+							<p>
+								καὶ πᾶς ὁ ὄχλος ἐζήτει ἅπτεσθαι αὐτοῦ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="20">
-							<p> μακάριοι οἱ πτωχοί, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τοῦ θεοῦ <app
-									type="variants">
+							<p>
+								μακάριοι οἱ πτωχοί, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τοῦ θεοῦ
+								<app type="variants">
 									<lem resp="#Zahn">
-										τοῦ θεοῦ</lem>
+										τοῦ θεοῦ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										τοῦ θεοῦ</rdg>
-								</app>. </p>
+										τοῦ θεοῦ
+									</rdg>
+								</app>
+								.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="21">
-							<p> μακάριοι οἱ πεινῶντες, ὅτι αὐτοὶ <app type="variants">
+							<p>
+								μακάριοι οἱ πεινῶντες, ὅτι αὐτοὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										αὐτοὶ</lem>
+										αὐτοὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										αὐτοὶ</rdg>
+										αὐτοὶ
+									</rdg>
 								</app>
-								χορτασθήσονται. μακάριοι οἱ κλαίοντες, ὅτι γελάσουσιν. </p>
+								χορτασθήσονται. μακάριοι οἱ κλαίοντες, ὅτι γελάσουσιν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
-							<p> μακάριοι ἔσεσθε, ὅταν μισήσωσιν <app type="variants">
+							<p>
+								μακάριοι ἔσεσθε, ὅταν μισήσωσιν
+								<app type="variants">
 									<lem resp="#Zahn">
-										μισήσωσιν</lem>
+										μισήσωσιν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										μισήσωσιν</rdg>
+										μισήσωσιν
+									</rdg>
 								</app>
-								ὑμᾶς οἱ ἄνθρωποι καὶ ὀνειδίσωσιν <app type="variants">
+								ὑμᾶς οἱ ἄνθρωποι καὶ ὀνειδίσωσιν
+								<app type="variants">
 									<lem resp="#Zahn">
-										ὀνειδίσωσιν</lem>
+										ὀνειδίσωσιν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ὀνειδίσωσιν</rdg>
+										ὀνειδίσωσιν
+									</rdg>
 								</app>
-								καὶ ἐκβάλωσιν <app type="variants">
+								καὶ ἐκβάλωσιν
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐκβάλωσιν</lem>
+										ἐκβάλωσιν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐκβάλωσιν</rdg>
-								</app> τὸ
-								ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου. </p>
+										ἐκβάλωσιν
+									</rdg>
+								</app>
+								τὸ
+								ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23b">
-							<p> κατὰ ταῦτα <app type="variants">
+							<p>
+								κατὰ ταῦτα
+								<app type="variants">
 									<lem resp="#Zahn">
-										ταῦτα</lem>
+										ταῦτα
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ταῦτα</rdg>
-								</app> ἐποίουν
-								τοῖς προφήταις οἱ πατέρες αὐτῶν. </p>
+										ταῦτα
+									</rdg>
+								</app>
+								ἐποίουν
+								τοῖς προφήταις οἱ πατέρες αὐτῶν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="24">
 							<p>
@@ -776,9 +954,11 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="26">
-							<p> οὐαὶ ὅταν καλῶς εἴπωσιν ὑμᾶς οἱ ἄνθρωποι·
+							<p>
+								οὐαὶ ὅταν καλῶς εἴπωσιν ὑμᾶς οἱ ἄνθρωποι·
 								κατὰ ταῦτα ἐποίουν καὶ τοῖς ψευδοπροφήταις οἱ πατέρες
-								αὐτῶν. </p>
+								αὐτῶν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="27">
 							<p>
@@ -801,10 +981,11 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									τῷ τύπτοντί σε εἰς τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην,
-								καὶ
+									καὶ
 								</supplied>
 								ἀπὸ τοῦ αἴροντός σου τὸν χιτῶνα, καὶ τὸ ἱμάτιον μὴ
-								κωλύσῃς. </p>
+								κωλύσῃς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="30a">
 							<p>
@@ -814,8 +995,12 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="31">
-							<p> καὶ καθὼς θέλετε ὑμῖν γίνεσθαι παρὰ τῶν <pb n="462" />ἀνθρώπων,
-								οὕτω καὶ ὑμεῖς ποιεῖτε αῦτοις. </p>
+							<p>
+								καὶ καθὼς θέλετε ὑμῖν γίνεσθαι παρὰ τῶν
+								<pb n="462" />
+								ἀνθρώπων,
+								οὕτω καὶ ὑμεῖς ποιεῖτε αῦτοις.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="34a">
 							<p>
@@ -829,11 +1014,11 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ
-								δανίζετε μηδένα ἀπελπίζοντες·
+									δανίζετε μηδένα ἀπελπίζοντες·
 									καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς,
 								</supplied>
-								καὶ ἔσεσθε υἱοὶ θεοῦ, ὅτι αὐτὸς <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+								καὶ ἔσεσθε υἱοὶ θεοῦ, ὅτι αὐτὸς
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς.
 								</supplied>
 							</p>
@@ -842,28 +1027,37 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									γίνεσθε οἰκτίρμονες,
-								</supplied> καθὼς ὁ
-								πατὴρ ᾤκτειρεν ὑμᾶς. </p>
+								</supplied>
+								καθὼς ὁ
+								πατὴρ
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								ᾤκτειρεν ὑμᾶς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="37">
-							<p> μὴ κρίνετε,
+							<p>
+								μὴ κρίνετε,
 								ἵνα μὴ κριθῆτε.
 								μὴ καταδικάζετε,
 								ἵνα μὴ καταδικασθῆτε.
-								ἀπολύετε καὶ ἀπολυθήσεσθε. </p>
+								ἀπολύετε καὶ ἀπολυθήσεσθε.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="38">
-							<p> δίδοτε, <supplied reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								δίδοτε,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ δοθήσεται ὑμῖν·
 									μέτρον καλὸν
 								</supplied>
-								πεπιεσμένον καὶ ὑπερεκχυννόμενον <supplied reason="omission"
-									source="#EOCM"
-									resp="#MGB">
+								πεπιεσμένον καὶ ὑπερεκχυννόμενον
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									δώσουσιν εἰς τὸν κόλπον ὑμῶν·
 								</supplied>
-								ᾧ μέτρῳ <pb
-									n="463" />μετρεῖτε ἀντιμετρηθήσεται ὑμῖν. </p>
+								ᾧ μέτρῳ
+								<pb n="463" />
+								μετρεῖτε ἀντιμετρηθήσεται ὑμῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="39">
 							<p>
@@ -933,13 +1127,19 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="46">
-							<p> τί δέ με <app type="variants">
+							<p>
+								τί δέ με
+								<app type="variants">
 									<lem resp="#Zahn">
-										δέ με</lem>
+										δέ με
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										δέ με</rdg>
-								</app> καλεῖς·
-								κύριε, κύριε, καὶ οὐ ποιεῖς ἅ λέγω. </p>
+										δέ με
+									</rdg>
+								</app>
+								καλεῖς·
+								κύριε, κύριε, καὶ οὐ ποιεῖς ἅ λέγω.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="7">
@@ -1033,7 +1233,8 @@
 									καὶ στραφεὶς τῷ ἀκολουθοῦντι αὐτῷ ὄχλῳ εἶπεν·
 								</supplied>
 								λέγω δὲ ὑμῖν· τοιαύτην πίστιν οὐδὲ ἐν τῷ Ἰσραὴλ
-								εὗρον. </p>
+								εὗρον.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="11">
 							<p>
@@ -1157,12 +1358,18 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23">
-							<p> καὶ λέγετε αὐτῷ <app type="variants">
-									<lem resp="#Zahn">αὐτῷ</lem>
-									<rdg resp="#Zahn" type="proposition" cert="low">αὐτῷ</rdg>
+							<p>
+								καὶ λέγετε αὐτῷ
+								<app type="variants">
+									<lem resp="#Zahn">
+										αὐτῷ
+									</lem>
+									<rdg resp="#Zahn" type="proposition" cert="low">
+										αὐτῷ
+									</rdg>
 								</app>
-								ὅτι μακάριός <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+								ὅτι μακάριός
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐστιν ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί.
 								</supplied>
 							</p>
@@ -1199,8 +1406,9 @@
 						</div>
 						<pb n="464" />
 						<div type="textpart" subtype="verse" n="27">
-							<p> αὐτός ἐστιν <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+							<p>
+								αὐτός ἐστιν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									περὶ οὗ γέγραπται·
 									ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου,
 									ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου.
@@ -1437,7 +1645,8 @@
 									καὶ φυὲν ἐποίησεν καρπὸν ἑκατονταπλασίονα.
 									ταῦτα λέγων ἐφώνει·
 								</supplied>
-								ὁ ἔχων ὦτα ἀκουέτω. </p>
+								ὁ ἔχων ὦτα ἀκουέτω.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="9">
 							<p>
@@ -1527,20 +1736,29 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="18">
-							<p> βλέπετε οὖν <app type="variants">
+							<p>
+								βλέπετε οὖν
+								<app type="variants">
 									<lem resp="#Zahn">
-										οὖν</lem>
+										οὖν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										οὖν</rdg>
-								</app> πῶς
-								ἀκούετε καί μὴ <app type="variants">
+										οὖν
+									</rdg>
+								</app>
+								πῶς
+								ἀκούετε καί μὴ
+								<app type="variants">
 									<lem resp="#Zahn">
-										μὴ</lem>
+										μὴ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										μὴ</rdg>
-								</app> ἀκούετε.
-								ὃς γὰρ ἂν ἔχῃ, <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+										μὴ
+									</rdg>
+								</app>
+								ἀκούετε.
+								ὃς γὰρ ἂν ἔχῃ,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									δοθήσεται αὐτῷ,
 									καὶ ὃς ἂν μὴ ἔχῃ,
 									καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ᾽ αὐτοῦ.
@@ -1561,7 +1779,10 @@
 									ὁ δὲ ἀποκριθεὶς εἶπεν πρὸς αὐτούς·
 								</supplied>
 								τίς μου ἡ μήτηρ καὶ τίνες μου οἱ ἀδελφοί, εἰ μὴ οἱ τοὺς
-								λόγους μου ἀκούοντες καὶ ποιοῦντες. <pb n="465" />
+								λόγους μου ἀκούοντες καὶ ποιοῦντες
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								.
+								<pb n="465" />
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
@@ -1583,7 +1804,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="24b">
-							<p> ὁ δὲ ἐγερθεὶς ἐπετίμησε τῷ ἀνέμῳ καὶ τῇ θαλάσσῃ. </p>
+							<p>
+								ὁ δὲ ἐγερθεὶς ἐπετίμησε τῷ ἀνέμῳ καὶ τῇ θαλάσσῃ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="25">
 							<p>
@@ -1593,14 +1816,18 @@
 									φοβηθέντες δὲ ἐθαύμασαν,
 									λέγοντες πρὸς ἀλλήλους·
 								</supplied>
-								τίς δὲ <app type="variants">
+								τίς δὲ
+								<app type="variants">
 									<lem resp="#Zahn">
-										δὲ</lem>
+										δὲ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										δὲ</rdg>
-								</app> οὗτός
-								ἐστιν, ὃς καὶ τοῖς ἀνέμοις <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+										δὲ
+									</rdg>
+								</app>
+								οὗτός
+								ἐστιν, ὃς καὶ τοῖς ἀνέμοις
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐπιτάσσει καὶ τῷ ὕδατι,
 									καὶ ὑπακούουσιν αὐτῷ·
 								</supplied>
@@ -1750,8 +1977,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="42b">
-							<p> ἐγένετο δὲ ἐν τῷ ὑπάγειν <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								ἐγένετο δὲ ἐν τῷ ὑπάγειν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									αὐτὸν οἱ ὄχλοι συνέπνιγον αὐτόν.
 								</supplied>
 							</p>
@@ -1775,10 +2003,11 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="45">
-							<p> καὶ εἶπεν ὁ κύριος· τίς μου ἥψατο <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								καὶ εἶπεν ὁ κύριος· τίς μου ἥψατο
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἀρνουμένων δὲ πάντων εἶπεν ὁ Πέτρος καὶ οἱ σὺν
-								αὐτῷ·
+									αὐτῷ·
 									ἐπιστάτα,
 									οἱ ὄχλοι συνέχουσίν σε καὶ ἀποθλίβουσιν.
 								</supplied>
@@ -1788,8 +2017,10 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ὁ δὲ Ἰησοῦς εἶπεν·
-								</supplied> ἥψατό μου
-								τις· καὶ γὰρ ἔγνων δύναμιν ἐξελθοῦσαν ἀπ᾽ ἐμοῦ. </p>
+								</supplied>
+								ἥψατό μου
+								τις· καὶ γὰρ ἔγνων δύναμιν ἐξελθοῦσαν ἀπ᾽ ἐμοῦ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="47">
 							<p>
@@ -1862,9 +2093,11 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐξερχόμενοι δὲ διήρχοντο
-								</supplied> κατὰ <pb
-									n="466" />πόλεις καὶ κώμας <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+								</supplied>
+								κατὰ
+								<pb n="466" />
+								πόλεις καὶ κώμας
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									εὐαγγελιζόμενοι καὶ θεραπεύοντες πανταχοῦ.
 								</supplied>
 							</p>
@@ -1963,7 +2196,8 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας,
 								</supplied>
-								ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν ἐπ᾽ αὐτούς. </p>
+								ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν ἐπ᾽ αὐτούς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="17">
 							<p>
@@ -1978,36 +2212,52 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν προσευχόμενον κατὰ
-								μόνας συνῆσαν αὐτῷ οἱ μαθηταί,
+									μόνας συνῆσαν αὐτῷ οἱ μαθηταί,
 									καὶ ἐπηρώτησεν αὐτοὺς λέγων·
 								</supplied>
-								τίνα με λέγουσιν εἶναι <app type="variants">
+								τίνα με λέγουσιν εἶναι
+								<app type="variants">
 									<lem resp="#Zahn">
-										εἶναι</lem>
+										εἶναι
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										εἶναι</rdg>
-								</app> οἱ
-								ἄνθρωποι, τὸν υἱὸν τοῦ ἀνθρώπου; </p>
+										εἶναι
+									</rdg>
+								</app>
+								οἱ
+								ἄνθρωποι, τὸν υἱὸν τοῦ ἀνθρώπου;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="19">
-							<p> λέγουσιν αὐτῷ <app type="variants">
+							<p>
+								λέγουσιν αὐτῷ
+								<app type="variants">
 									<lem resp="#Zahn">
-										αὐτῷ</lem>
+										αὐτῷ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										αὐτῷ</rdg>
-								</app> οἱ
+										αὐτῷ
+									</rdg>
+								</app>
+								οἱ
 								μαθηταί· Ἰωάννην τὸν βαπτιστήν, ἄλλοι δὲ Ἠλίαν, ἄλλοι
-								δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη. </p>
+								δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="20">
-							<p> εἶπε δὲ αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε εἶναι <app
-									type="variants">
+							<p>
+								εἶπε δὲ αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε εἶναι
+								<app type="variants">
 									<lem resp="#Zahn">
-										με λέγετε εἶναι</lem>
+										με λέγετε εἶναι
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										με λέγετε εἶναι</rdg>
-								</app>;
-								ἀποκριθεὶς Πέτρος εἶπεν· σὺ εἶ ὁ Χριστὸς. </p>
+										με λέγετε εἶναι
+									</rdg>
+								</app>
+								;
+								ἀποκριθεὶς Πέτρος εἶπεν· σὺ εἶ ὁ Χριστὸς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="21">
 							<p>
@@ -2018,12 +2268,14 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
-							<p> λέγων·
+							<p>
+								λέγων·
 								δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ
 								ἀποδοκιμασθῆναι
 								ἀπὸ τῶν πρεσβυτέρων καὶ γραμματέων καὶ ἀρχιερέων καὶ
 								ἀποκτανθῆναι
-								καὶ μετὰ τρεῖς ἡμέρας ἐγερθῆναι. </p>
+								καὶ μετὰ τρεῖς ἡμέρας ἐγερθῆναι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="24">
 							<p>
@@ -2036,13 +2288,19 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="26a">
-							<p> ὃς γὰρ <app type="variants">
+							<p>
+								ὃς γὰρ
+								<app type="variants">
 									<lem resp="#Zahn">
-										γὰρ</lem>
+										γὰρ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										γὰρ</rdg>
-								</app> ἂν
-								ἐπαισχυνθῇ με, κἀγὼ ἐπαισχυνθήσομαι αὐτόν. </p>
+										γὰρ
+									</rdg>
+								</app>
+								ἂν
+								ἐπαισχυνθῇ με, κἀγὼ ἐπαισχυνθήσομαι αὐτόν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="28">
 							<p>
@@ -2064,8 +2322,10 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="30">
-							<p> καὶ ἰδοὺ δύο ἄνδρες συνελάλουν αὐτῷ,
-								Ἠλίας καὶ Μωϋσῆς ἐν δόξη. </p>
+							<p>
+								καὶ ἰδοὺ δύο ἄνδρες συνελάλουν αὐτῷ,
+								Ἠλίας καὶ Μωϋσῆς ἐν δόξη.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="32">
 							<p>
@@ -2101,36 +2361,56 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="35">
-							<p> καὶ ἐγένετο <app type="variants">
+							<p>
+								καὶ ἐγένετο
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ ἐγένετο</lem>
+										καὶ ἐγένετο
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ ἐγένετο</rdg>
+										καὶ ἐγένετο
+									</rdg>
 								</app>
-								ἐκ τῆς νεφέλης <pb n="467" />φωνή· οὗτός ἐστιν ὁ υἱός μου
-								ὁ ἀγαπητός· αὐτοῦ ἀκούετε. </p>
+								ἐκ τῆς νεφέλης
+								<pb n="467" />
+								φωνή· οὗτός ἐστιν ὁ υἱός μου
+								ὁ ἀγαπητός· αὐτοῦ ἀκούετε.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="40">
-							<p> καὶ <app type="variants">
+							<p>
+								καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
-								</app> ἐδεήθην
-								τῶν μαθητῶν σου καὶ <app type="variants">
+										καὶ
+									</rdg>
+								</app>
+								ἐδεήθην
+								τῶν μαθητῶν σου καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
-								</app> οὐκ
-								ἠδυνήθησαν <pb
-									n="468" />ἐκβαλεῖν αὐτό. </p>
+										καὶ
+									</rdg>
+								</app>
+								οὐκ
+								ἠδυνήθησαν
+								<pb n="468" />
+								ἐκβαλεῖν αὐτό.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="41">
-							<p> ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς·
+							<p>
+								ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς·
 								ὦ γενεὰ ἄπιστος,
 								ἕως πότε ἔσομαι πρὸς ὑμᾶς;
-								ἕως πότε ἀνέξομαι ὑμῶν; </p>
+								ἕως πότε ἀνέξομαι ὑμῶν;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="44">
 							<p>
@@ -2278,10 +2558,10 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									μὴ βαστάζετε βαλλάντιον,
-								</supplied> μὴ
-								ῥάβδον, μὴ ὑποδήματα· μηδένα <supplied reason="omission"
-									source="#EOCM"
-									resp="#MGB">
+								</supplied>
+								μὴ
+								ῥάβδον, μὴ ὑποδήματα· μηδένα
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									κατὰ τὴν ὁδὸν ἀσπάσησθε.
 								</supplied>
 							</p>
@@ -2291,6 +2571,7 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									εἰς ἣν δ᾽ ἂν εἰσέλθητε οἰκίαν,
 								</supplied>
+								<gap reason="missing" extent="unknown" source="#Zahn" />
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									λέγετε·
 									εἰρήνη τῷ οἴκῳ τούτῳ.
@@ -2326,13 +2607,17 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ τὸν κονιορτὸν τον κολληθέντα ἡμῖν
 								</supplied>
-								ἐκ τῆς πόλεως ὑμῶν εἰς μαρτύριον <app type="variants">
+								ἐκ τῆς πόλεως ὑμῶν εἰς μαρτύριον
+								<app type="variants">
 									<lem resp="#Zahn">
-										εἰς μαρτύριον</lem>
+										εἰς μαρτύριον
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										εἰς μαρτύριον</rdg>
+										εἰς μαρτύριον
+									</rdg>
 								</app>
-								ἀπομασσόμεθα ὑμῖν. </p>
+								ἀπομασσόμεθα ὑμῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="16">
 							<p>
@@ -2357,28 +2642,40 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ
-								ἁγίῳ καὶ εἶπεν·
+									ἁγίῳ καὶ εἶπεν·
 								</supplied>
-								εὐχαριστῶ σοι <app type="variants">
+								εὐχαριστῶ σοι
+								<app type="variants">
 									<lem resp="#Zahn">
-										σοι</lem>
-									<rdg resp="#Zahn" type="proposition" cert="low">σοι</rdg>
+										σοι
+									</lem>
+									<rdg resp="#Zahn" type="proposition" cert="low">
+										σοι
+									</rdg>
 								</app>
 								καὶ ἐξομολογοῦμαι, κύριε τοῦ οὐρανοῦ, ὅτι ἅπερ ἦν
-								κρυπτὰ σοφοῖς καὶ συνετοῖς, ἀπεκάλυψας νηπίοις· ναὶ ὁ <pb
-									n="470" />πατήρ, ὅτι οὕτως ἐγένετο εὐδοκία ἔμπροσθέν
-								σου. </p>
+								κρυπτὰ σοφοῖς καὶ συνετοῖς, ἀπεκάλυψας νηπίοις· ναὶ ὁ
+								<pb n="470" />
+								πατήρ, ὅτι οὕτως ἐγένετο εὐδοκία ἔμπροσθέν
+								σου.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
-							<p> πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός, καὶ <app type="variants">
+							<p>
+								πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός, καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
-								</app> οὐδεὶς
+										καὶ
+									</rdg>
+								</app>
+								οὐδεὶς
 								γινώσκει, τίς ἐστιν ὁ πατήρ, εἰ μὴ ὁ υἱός, καὶ τίς
 								ἐστιν ὁ υἱός, εἰ μὴ ὁ πατὴρ καὶ ᾧ ἐὰν ὁ υἱὸς
-								ἀποκαλύψῃ. </p>
+								ἀποκαλύψῃ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23">
 							<p>
@@ -2392,8 +2689,10 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									λέγω γὰρ ὑμῖν
-								</supplied> ὅτι οἱ προφῆται
-								οὐκ εἶδον ἃ ὑμεῖς βλέπετε. </p>
+								</supplied>
+								ὅτι οἱ προφῆται
+								οὐκ εἶδον ἃ ὑμεῖς βλέπετε.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="25">
 							<p>
@@ -2402,7 +2701,8 @@
 									λέγων·
 									διδάσκαλε,
 								</supplied>
-								τί ποιήσας ζωὴν κληρονομήσω; </p>
+								τί ποιήσας ζωὴν κληρονομήσω;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="26">
 							<p>
@@ -2456,32 +2756,49 @@
 									ὅταν προσεύχησθε,
 									λέγετε·
 								</supplied>
-								πάτερ, ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽ <app type="variants">
+								πάτερ, ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽</lem>
+										ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽</rdg>
-								</app> <pb
-									n="472" /> ἡμᾶς καὶ καθαρίσατω ἡμᾶς <app type="variants">
+										ἐλθέτω τὸ ἅγιον πνεῦμά σου ἐφ᾽
+									</rdg>
+								</app>
+								<pb n="472" />
+								ἡμᾶς καὶ καθαρίσατω ἡμᾶς
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἡμᾶς καὶ καθαρίσατω ἡμᾶς</lem>
+										ἡμᾶς καὶ καθαρίσατω ἡμᾶς
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἡμᾶς καὶ καθαρίσατω ἡμᾶς</rdg>
-								</app>.
-								ἐλθέτω ἡ βασιλεία σου. </p>
+										ἡμᾶς καὶ καθαρίσατω ἡμᾶς
+									</rdg>
+								</app>
+								.
+								ἐλθέτω ἡ βασιλεία σου.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="3">
-							<p> τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ᾽ ἡμέραν, </p>
+							<p>
+								τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ᾽ ἡμέραν,
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="4">
-							<p> καὶ ἄφες ἡμῖν τὰς ἁμαρτίας <app type="variants">
+							<p>
+								καὶ ἄφες ἡμῖν τὰς ἁμαρτίας
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἁμαρτίας</lem>
+										ἁμαρτίας
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἁμαρτίας</rdg>
+										ἁμαρτίας
+									</rdg>
 								</app>
-								ἡμῶν καὶ μὴ ἄφες ἡμᾶς εἰσενεχθῆναι <pb
-									n="473" />εἰς πειρασμόν. </p>
+								ἡμῶν καὶ μὴ ἄφες ἡμᾶς εἰσενεχθῆναι
+								<pb n="473" />
+								εἰς πειρασμόν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="5">
 							<p>
@@ -2539,8 +2856,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="11">
-							<p> τίνα γὰρ ἐξ ὑμῶν τὸν πατέρα υἱὸς αἰτήσει <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								τίνα γὰρ ἐξ ὑμῶν τὸν πατέρα υἱὸς αἰτήσει
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἄρτον,
 									μὴ λίθον ἐπιδώσει αὐτῷ;
 									ἢ καὶ ἰχθύν,
@@ -2557,11 +2875,12 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="13">
-							<p> εἰ οὖν ὑμεῖς πονηροὶ ὄντες <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								εἰ οὖν ὑμεῖς πονηροὶ ὄντες
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν,
 									πόσῳ μᾶλλον ὁ πατὴρ ὁ ἐξ οὐρανοῦ δώσει πνεῦμα ἅγιον
-								τοῖς αἰτοῦσιν αὐτόν.
+									τοῖς αἰτοῦσιν αὐτόν.
 								</supplied>
 							</p>
 						</div>
@@ -2619,14 +2938,19 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="20">
-							<p> εἰ δὲ <app type="variants">
+							<p>
+								εἰ δὲ
+								<app type="variants">
 									<lem resp="#Zahn">
-										δὲ</lem>
+										δὲ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										δὲ</rdg>
-								</app> ἐγὼ ἐν
-								δακτύλῳ <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+										δὲ
+									</rdg>
+								</app>
+								ἐγὼ ἐν
+								δακτύλῳ
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									θεοῦ ἐκβάλλω τὰ δαιμόνια,
 									ἄρα ἔφθασεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.
 								</supplied>
@@ -2675,7 +2999,8 @@
 									τῶν δὲ ὄχλων ἐπαθροιζομένων ἤρξατο λέγειν·
 								</supplied>
 								ἡ γενεὰ αὕτη σημεῖον αἰτεῖ, καὶ σημεῖον οὐ δοθήσεται
-								αὐτῇ. </p>
+								αὐτῇ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="33">
 							<p>
@@ -2723,28 +3048,35 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="41">
-							<p> πλὴν <app type="variants">
+							<p>
+								πλὴν
+								<app type="variants">
 									<lem resp="#Zahn">
-										πλὴν</lem>
+										πλὴν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										πλὴν</rdg>
-								</app> τὰ
-								ἐνόντα <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+										πλὴν
+									</rdg>
+								</app>
+								τὰ
+								ἐνόντα
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									δότε ἐλεημοσύνην,
 									καὶ
 								</supplied>
-								πάντα καθαρὰ ἔσται ὑμῖν. </p>
+								πάντα καθαρὰ ἔσται ὑμῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="42">
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἀλλὰ οὐαὶ ὑμῖν τοῖς Φαρισαίοις,
 									ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν
-								λάχανον,
+									λάχανον,
 									καὶ
 								</supplied>
-								παρέρχεσθε τὴν κλῆσιν καὶ τὴν ἀγάπην τοῦ θεοῦ. </p>
+								παρέρχεσθε τὴν κλῆσιν καὶ τὴν ἀγάπην τοῦ θεοῦ.
+							</p>
 						</div>
 						<pb n="474" />
 						<div type="textpart" subtype="verse" n="43">
@@ -2837,34 +3169,44 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="8">
-							<p> λέγω γὰρ ὑμῖν, <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+							<p>
+								λέγω γὰρ ὑμῖν,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									πᾶς ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ
 								</supplied>
 								ἐνώπιον τῶν ἀνθρώπων, ὁμολογήσω ἐν αὐτῷ ἐνώπιον τοῦ
-								θεοῦ. </p>
+								θεοῦ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="9">
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ὁ δὲ ἀρνησάμενός με ἐνώπιον τῶν ἀνθρώπων
 								</supplied>
-								ἀπαρνηθήσεται ἐνώπιον τοῦ θεοῦ. </p>
+								ἀπαρνηθήσεται ἐνώπιον τοῦ θεοῦ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="10">
-							<p> καὶ <app type="variants">
+							<p>
+								καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
-								</app> ὃς ἂν <pb
-									n="475" />εἴπῃ εἰς τὸν υἱὸν <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+										καὶ
+									</rdg>
+								</app>
+								ὃς ἂν
+								<pb n="475" />
+								εἴπῃ εἰς τὸν υἱὸν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									τοῦ ἀνθρώπου,
 									ἀφεθήσεται αὐτῷ·
 								</supplied>
 								ὃς δ᾽ ἂν εἴπῃ εἰς τὸ ἅγιον πνεῦμα, οὐκ ἀφεθήσεται
-								αὐτῷ. </p>
+								αὐτῷ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="11">
 							<p>
@@ -2899,7 +3241,8 @@
 									ὁ δὲ εἶπεν αὐτῷ·
 									ἄνθρωπε,
 								</supplied>
-								τίς με κατέστησεν κριτὴν ἐφ᾽ ὑμᾶς; </p>
+								τίς με κατέστησεν κριτὴν ἐφ᾽ ὑμᾶς;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="16">
 							<p>
@@ -2950,7 +3293,8 @@
 									ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ·
 									ἃ δὲ ἡτοίμασας,
 								</supplied>
-								τίνος ἔσται; </p>
+								τίνος ἔσται;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
 							<p>
@@ -2971,15 +3315,25 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="28">
-							<p> ὀλιγόπιστοι; </p>
+							<p>
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								ὀλιγόπιστοι;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="30">
-							<p> ταῦτα γὰρ τὰ ἔθνη <pb n="476" />τοῦ κόσμου ἐπιζητοῦσιν,
-								οἶδεν δὲ ὁ πατήρ, ὅτι χρῄζετε τούτων. </p>
+							<p>
+								ταῦτα γὰρ τὰ ἔθνη
+								<pb n="476" />
+								τοῦ κόσμου ἐπιζητοῦσιν,
+								οἶδεν δὲ ὁ πατήρ, ὅτι χρῄζετε τούτων.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="31">
-							<p> ζητεῖτε δὲ τὴν βασιλείαν τοῦ θεοῦ καὶ ταῦτα προστεθήσεται
-								ὑμῖν. </p>
+							<p>
+								ζητεῖτε δὲ τὴν βασιλείαν τοῦ θεοῦ καὶ ταῦτα
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								προστεθήσεται ὑμῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="32">
 							<p>
@@ -3019,8 +3373,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="38">
-							<p> καὶ ἐὰν ἔλθῃ τῇ ἑσπερινῇ φυλακῇ καὶ εὕρῃ οὕτως, <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								καὶ ἐὰν ἔλθῃ τῇ ἑσπερινῇ φυλακῇ καὶ εὕρῃ οὕτως,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									μακάριοί εἰσίν.
 								</supplied>
 							</p>
@@ -3131,8 +3486,12 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="51">
-							<p> δοκεῖτε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν; οὐχί,
-								λέγω <pb n="477" />ὑμῖν, ἀλλὰ διαμερισμόν. </p>
+							<p>
+								δοκεῖτε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν; οὐχί,
+								λέγω
+								<pb n="477" />
+								ὑμῖν, ἀλλὰ διαμερισμόν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="53">
 							<p>
@@ -3185,11 +3544,12 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ᾽ ἄρχοντα,
 									ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ᾽ αὐτοῦ,
-								μήποτε κατασύρῃ σε πρὸς τὸν κριτήν,
+									μήποτε κατασύρῃ σε πρὸς τὸν κριτήν,
 									καὶ ὁ κριτής
 								</supplied>
-								παραδώσει σε <supplied reason="omission" source="#EOCM" resp="#MGB">
-								τῷ πράκτορι,
+								παραδώσει σε
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
+									τῷ πράκτορι,
 									καὶ ὁ πράκτωρ σε βαλεῖ εἰς φυλακήν.
 								</supplied>
 							</p>
@@ -3200,9 +3560,8 @@
 									λέγω σοι,
 									οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως
 								</supplied>
-								καὶ τὸν ἔσχατον κοδράντην <supplied reason="omission"
-									source="#EOCM"
-									resp="#MGB">
+								καὶ τὸν ἔσχατον κοδράντην
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἀποδῷς.
 								</supplied>
 							</p>
@@ -3297,9 +3656,10 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="19">
-							<p> ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ κόκκῳ σινάπεως, ὃν
-								λαβὼν ἄνθρωπος ἔσπειρεν ἐν τῷ κήπῳ αὐτοῦ <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ κόκκῳ σινάπεως, ὃν
+								λαβὼν ἄνθρωπος ἔσπειρεν ἐν τῷ κήπῳ αὐτοῦ
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον,
 									καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς
 									κλάδοις αὐτοῦ.
@@ -3357,10 +3717,12 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="28">
-							<p> ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων,
+							<p>
+								ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων,
 								ὅτε πάντας τοὺς δικαίους ἴδητε ἐν τῇ βασιλείᾳ τοῦ
 								θεοῦ,
-								ὑμᾶς δὲ κρατουμένους ἔξω. </p>
+								ὑμᾶς δὲ κρατουμένους ἔξω.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="14">
@@ -3449,14 +3811,14 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ παραγενόμενος ὁ δοῦλος ἀπήγγειλεν τῷ κυρίῳ αὐτοῦ
-								ταῦτα.
+									ταῦτα.
 								</supplied>
-								τότε κινηθεὶς ὁ οἰκοδεσπότης <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+								τότε κινηθεὶς ὁ οἰκοδεσπότης
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									εἶπεν τῷ δούλῳ αὐτοῦ·
 									ἔξελθε ταχέως εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως,
-								καὶ τοὺς πτωχοὺς καὶ ἀναπήρους καὶ τυφλοὺς καὶ χωλοὺς
-								εἰσάγαγε ὧδε.
+									καὶ τοὺς πτωχοὺς καὶ ἀναπήρους καὶ τυφλοὺς καὶ χωλοὺς
+									εἰσάγαγε ὧδε.
 								</supplied>
 							</p>
 						</div>
@@ -3648,8 +4010,10 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="12">
-							<p> καὶ εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐχ ηὑρέθητε,
-								τὸ ἐμὸν τίς δώσει ὑμῖν; </p>
+							<p>
+								καὶ εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐχ ηὑρέθητε,
+								τὸ ἐμὸν τίς δώσει ὑμῖν;
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="13">
 							<p>
@@ -3683,15 +4047,20 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="16">
-							<p> ὁ νόμος καὶ οἱ προφῆται ἕως Ἰωάννου, ἐξ <app
-									type="variants">
+							<p>
+								ὁ νόμος καὶ οἱ προφῆται ἕως Ἰωάννου, ἐξ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐξ</lem>
+										ἐξ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐξ</rdg>
-								</app> οὗ ἡ
+										ἐξ
+									</rdg>
+								</app>
+								οὗ ἡ
 								βασιλεία τοῦ θεοῦ εὐαγγελίζεται, καὶ πᾶς εἰς αὐτὴν
-								βιάζεται. </p>
+								βιάζεται.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="17">
 							<p>
@@ -3699,7 +4068,8 @@
 									εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν
 									παρελθεῖν
 								</supplied>
-								ἢ τῶν λόγων μου μίαν κεραίαν πεσεῖν. </p>
+								ἢ τῶν λόγων μου μίαν κεραίαν πεσεῖν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="18">
 							<p>
@@ -3743,25 +4113,30 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἐγένετο δὲ ἀποθανεῖν τὸν πτωχὸν καὶ ἀπενεχθῆναι
 									αὐτὸν ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον Ἀβραάμ·
-								ἀπέθανεν δὲ καὶ ὁ πλούσιος καὶ
+									ἀπέθανεν δὲ καὶ ὁ πλούσιος καὶ
 								</supplied>
-								ἐτάφη. </p>
+								ἐτάφη.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23">
 							<pb n="480" />
-							<p> ἐν τῷ ᾅδῃ. ἐπάρας οὖν <app type="variants">
+							<p>
+								ἐν τῷ ᾅδῃ. ἐπάρας οὖν
+								<app type="variants">
 									<lem resp="#Zahn">
-										οὖν</lem>
+										οὖν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										οὖν</rdg>
-								</app> <supplied
-									reason="omission"
-									source="#EOCM" resp="#MGB">
+										οὖν
+									</rdg>
+								</app>
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									τοὺς ὀφθαλμοὺς αὐτοῦ,
 									ὑπάρχων ἐν βασάνοις,
 									ὁρᾷ Ἀβραὰμ ἀπὸ μακρόθεν καὶ Λάζαρον
 								</supplied>
-								ἐν τῷ κόλπῷ αὐτοῦ. </p>
+								ἐν τῷ κόλπῷ αὐτοῦ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="24">
 							<p>
@@ -3776,23 +4151,32 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="25">
-							<p> Ἀβραάμ δὲ εἶπε· τέκνον, μνήσθητι ὅτι ἀπέλαβες σὺ τὰ
-								ἀγαθὰ ἐν τῇ ζωῇ σου, <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								Ἀβραάμ δὲ εἶπε· τέκνον, μνήσθητι ὅτι ἀπέλαβες σὺ τὰ
+								ἀγαθὰ ἐν τῇ ζωῇ σου,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ Λάζαρος ὁμοίως τὰ κακά·
-								</supplied> νῦν
-								δὲ ὅδε παρακαλεῖται, σὺ δὲ ὀδυνᾶσαι. </p>
+								</supplied>
+								νῦν
+								δὲ ὅδε παρακαλεῖται, σὺ δὲ ὀδυνᾶσαι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="26">
-							<p> καὶ ἐπὶ <app type="variants">
+							<p>
+								καὶ ἐπὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐπὶ</lem>
+										ἐπὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐπὶ</rdg>
-								</app> πᾶσι
+										ἐπὶ
+									</rdg>
+								</app>
+								πᾶσι
 								τούτοις μεταξὺ ὑμῶν καὶ ἡμῶν χάσμα μέγα ἐστήρικται,
 								ὅπως οἱ ἐνταῦθα διαβῆναι πρὸς ὑμᾶς μὴ δύνωνται, μηδὲ οἱ
-								ἐκεῖθεν ὧδε διαπερῶσιν. </p>
+								ἐκεῖθεν ὧδε διαπερῶσιν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="27">
 							<p>
@@ -3835,10 +4219,12 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="31">
-							<p> ὁ δὲ εἶπεν·
+							<p>
+								ὁ δὲ εἶπεν·
 								εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἤκουσαν,
 								οὐδ᾿ ἄν τις ἐκ νεκρῶν ἀπέλθῃ,
-								ἀκούσωσιν αὐτοῦ. </p>
+								ἀκούσωσιν αὐτοῦ.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="17">
@@ -3852,10 +4238,13 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="2">
-							<p> συνέφερεν αὐτῷ, εἰ οὐκ ἐγεννήθη ἢ λίθος μυλικὸς <pb
-									n="481" />περιέκειτο περὶ τὸν τράχηλον αὐτοῦ καὶ
-								ἔρριπτο <supplied reason="omission" source="#EOCM" resp="#MGB">
-								εἰς τὴν θάλασσαν,
+							<p>
+								συνέφερεν αὐτῷ, εἰ οὐκ ἐγεννήθη ἢ λίθος μυλικὸς
+								<pb n="481" />
+								περιέκειτο περὶ τὸν τράχηλον αὐτοῦ καὶ
+								ἔρριπτο
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
+									εἰς τὴν θάλασσαν,
 									ἢ ἵνα σκανδαλίσῃ τῶν μικρῶν τούτων ἕνα.
 								</supplied>
 							</p>
@@ -3900,20 +4289,27 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="14a">
-							<p> καὶ <app type="variants">
+							<p>
+								καὶ
+								<app type="variants">
 									<lem resp="#Zahn">
-										καὶ</lem>
+										καὶ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										καὶ</rdg>
+										καὶ
+									</rdg>
 								</app>
 								ἀπέστειλεν αὐτοὺς λέγων· πορευθέντες δείξατε ἑαυτοὺς τοῖς
-								ἱερεῦσιν. </p>
+								ἱερεῦσιν.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="4">
 						<div type="textpart" subtype="verse" n="27">
-							<p> πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐν ἡμέραις Ἐλισσαίου
-								τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος. </p>
+							<p>
+								πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐν ἡμέραις Ἐλισσαίου
+								τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="17">
@@ -3982,10 +4378,12 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									οὐδὲ ἐροῦσιν·
-								</supplied> ἰδοὺ ὧδε, ἰδοὺ
-								ἐκεῖ· <pb
-									n="482" />ἰδοῦ γὰρ <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+								</supplied>
+								ἰδοὺ ὧδε, ἰδοὺ
+								ἐκεῖ·
+								<pb n="482" />
+								ἰδοῦ γὰρ
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστίν.
 								</supplied>
 							</p>
@@ -3996,8 +4394,8 @@
 									εἶπεν δὲ πρὸς τοὺς μαθητάς·
 									ἐλεύσονται ἡμέραι
 								</supplied>
-								ὅταν ἐπιθυμήσητε ἰδεῖν μίαν <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+								ὅταν ἐπιθυμήσητε ἰδεῖν μίαν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου,
 									καὶ οὐκ ὄψεσθε.
 								</supplied>
@@ -4226,30 +4624,44 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς·
-								</supplied> τί <app
-									type="variants">
+								</supplied>
+								τί
+								<app type="variants">
 									<lem resp="#Zahn">
-										τί</lem>
+										τί
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										τί</rdg>
-								</app> με λέγετε <pb
-									n="484" />ἀγαθόν; εἷς ἐστὶν ἀγαθός, ὁ <app
-									type="variants">
+										τί
+									</rdg>
+								</app>
+								με λέγετε
+								<pb n="484" />
+								ἀγαθόν; εἷς ἐστὶν ἀγαθός, ὁ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ὁ</lem>
+										ὁ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ὁ</rdg>
-								</app> θεὸς ὁ
-								πατήρ <app type="variants">
+										ὁ
+									</rdg>
+								</app>
+								θεὸς ὁ
+								πατήρ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ὁ πατήρ</lem>
+										ὁ πατήρ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ὁ πατήρ</rdg>
-								</app>. </p>
+										ὁ πατήρ
+									</rdg>
+								</app>
+								.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="20">
-							<p> τὰς ἐντολὰς οἶδας; μὴ φονεύσῃς, μὴ μοιχεύσῃς, <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								τὰς ἐντολὰς οἶδας; μὴ φονεύσῃς, μὴ μοιχεύσῃς,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									μὴ κλέψῃς,
 									μὴ ψευδομαρτυρήσῃς,
 									τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου.
@@ -4257,12 +4669,17 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="21">
-							<p> ὁ δὲ εἶπεν·
-								ταῦτα πάντα ἐφύλαξα ἐκ νεότητος. </p>
+							<p>
+								ὁ δὲ εἶπεν·
+								ταῦτα πάντα ἐφύλαξα ἐκ νεότητος.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22">
-							<p> ἀκούσας <pb n="485" />ταῦτα ὁ Ἰησους εἶπεν· ἕν σοι λείπει <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								ἀκούσας
+								<pb n="485" />
+								ταῦτα ὁ Ἰησους εἶπεν· ἕν σοι λείπει
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς,
 									καὶ ἕξεις θησαυρὸν ἐν οὐρανοῖς,
 									καὶ δεῦρο ἀκολούθει μοι.
@@ -4349,11 +4766,15 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="35">
-							<p> ἐγένετο <supplied reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								ἐγένετο
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									δὲ ἐν τῷ ἐγγίζειν
-								</supplied> αὐτὸν εἰς
+								</supplied>
+								αὐτὸν εἰς
 								Ἰεριχὼ καὶ ἰδού τις τυφλὸς ἐπαιτῶν ἐκάθητο παρὰ τὴν
-								ὁδόν. </p>
+								ὁδόν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="36">
 							<p>
@@ -4364,8 +4785,10 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="37">
-							<p> ἀπηγγέλη δὲ αὐτῷ,
-								ὅτι Ἰησοῦς παρέρχεται. </p>
+							<p>
+								ἀπηγγέλη δὲ αὐτῷ,
+								ὅτι Ἰησοῦς παρέρχεται.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="38">
 							<p>
@@ -4406,8 +4829,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="42">
-							<p> καὶ ἀποκριθεὶς εἶπεν ὁ Ἰησοῦς· ἀνάβλεψον· <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								καὶ ἀποκριθεὶς εἶπεν ὁ Ἰησοῦς· ἀνάβλεψον·
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἡ πίστις σου σέσωκέν σε.
 								</supplied>
 							</p>
@@ -4662,7 +5086,8 @@
 									λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται,
 									ἀπὸ δὲ τοῦ μὴ ἔχοντος
 								</supplied>
-								καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται. </p>
+								καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="28">
 							<p>
@@ -4879,22 +5304,30 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="35">
-							<p> οὓς δέ κατηξίωσεν ὁ θεὸς τοῦ αἰῶνος ἐκείνου, τυχεῖν καὶ
-								τῆς ἀναστάσεως τῆς ἐκ νεκρῶν <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								οὓς δέ κατηξίωσεν ὁ θεὸς τοῦ αἰῶνος ἐκείνου, τυχεῖν καὶ
+								τῆς ἀναστάσεως τῆς ἐκ νεκρῶν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									οὔτε γαμοῦσιν οὔτε γαμίζονται·
 								</supplied>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="36">
-							<p> οὐδὲ γὰρ ἀποθανεῖν ἔτι μέλλουσιν, ἰσάγγελοι γάρ εἰσιν <app
-									type="variants">
+							<p>
+								οὐδὲ γὰρ ἀποθανεῖν ἔτι μέλλουσιν, ἰσάγγελοι γάρ εἰσιν
+								<app type="variants">
 									<lem resp="#Zahn">
-										εἰσιν</lem>
+										εἰσιν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										εἰσιν</rdg>
-								</app> θεοῦ <pb
-									n="487" />() τῆς ἀναστάσεως υἱοὶ γεγονότες. </p>
+										εἰσιν
+									</rdg>
+								</app>
+								θεοῦ
+								<pb n="487" />
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								τῆς ἀναστάσεως υἱοὶ γεγονότες.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="39">
 							<p>
@@ -4976,8 +5409,8 @@
 									πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου,
 									λέγοντες·
 								</supplied>
-								ἐγώ εἰμι ὁ Χριστός, <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+								ἐγώ εἰμι ὁ Χριστός,
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καί ὁ καιρὸς ἤγγικεν·
 									μὴ πορευθῆτε ὀπίσω αὐτῶν.
 								</supplied>
@@ -5027,8 +5460,10 @@
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἀποβήσεται ὑμῖν
-								</supplied> εἰς μαρτύριον
-								καὶ εἰς σωτηρίαν. </p>
+								</supplied>
+								εἰς μαρτύριον
+								καὶ εἰς σωτηρίαν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="14">
 							<p>
@@ -5064,7 +5499,9 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="19">
-							<p> ἐν δὲ τῇ ὑπομονῇ σώσετε ἑαυτούς. </p>
+							<p>
+								ἐν δὲ τῇ ὑπομονῇ σώσετε ἑαυτούς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="20">
 							<p>
@@ -5097,11 +5534,13 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου
 								</supplied>
-								ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς. </p>
+								ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="28">
-							<p> τούτων δὲ γινομένων ἀνακύψατε <supplied reason="omission"
-									source="#EOCM" resp="#MGB">
+							<p>
+								τούτων δὲ γινομένων ἀνακύψατε
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ ἐπάρατε τὰς κεφαλὰς ὑμῶν,
 									διότι ἐγγίζει ἡ ἀπολύτρωσις ὑμῶν.
 								</supplied>
@@ -5112,15 +5551,17 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ εἶπεν παραβολὴν αὐτοῖς.
 								</supplied>
-								ἴδε τὴν συκῆν <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+								ἴδε τὴν συκῆν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ πάντα τὰ δένδρα·
 								</supplied>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="30">
-							<p> ὅταν προβάλωσιν τὸν καρπὸν αὐτῶν,
-								γινώσκουσιν οἱ ἄνθρωποι ὅτι τὸ θέρος ἤγγικεν. </p>
+							<p>
+								ὅταν προβάλωσιν τὸν καρπὸν αὐτῶν,
+								γινώσκουσιν οἱ ἄνθρωποι ὅτι τὸ θέρος ἤγγικεν.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="31">
 							<p>
@@ -5132,24 +5573,37 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="32">
-							<p> ἀμὴν λέγω ὑμῖν, ὅτι οὐ μὴ παρέλθῃ ὁ <pb n="489" />οὐρανὸς
-								καὶ ἡ γῆ, ἐὰν μὴ <app type="variants">
+							<p>
+								ἀμὴν λέγω ὑμῖν, ὅτι οὐ μὴ παρέλθῃ ὁ
+								<pb n="489" />
+								οὐρανὸς
+								καὶ ἡ γῆ, ἐὰν μὴ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐὰν μὴ</lem>
+										ἐὰν μὴ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐὰν μὴ</rdg>
-								</app> πάντα
-								γένηται. </p>
+										ἐὰν μὴ
+									</rdg>
+								</app>
+								πάντα
+								γένηται.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="33">
-							<p> ἡ γῆ καὶ ὁ οὐρανὸς παρελεύσονται, ὁ δὲ λόγος μου μένει <app
-									type="variants">
+							<p>
+								ἡ γῆ καὶ ὁ οὐρανὸς παρελεύσονται, ὁ δὲ λόγος μου μένει
+								<app type="variants">
 									<lem resp="#Zahn">
-										μένει</lem>
+										μένει
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										μένει</rdg>
-								</app> εἰς τὸν
-								αἰῶνα. </p>
+										μένει
+									</rdg>
+								</app>
+								εἰς τὸν
+								αἰῶνα.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="34">
 							<p>
@@ -5194,17 +5648,24 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="3">
-							<p> ἀπελθὼν δὲ Ἰούδας ὁ καλούμενος Ἰσκαριώτης,
-								ὢν ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα </p>
+							<p>
+								ἀπελθὼν δὲ Ἰούδας ὁ καλούμενος Ἰσκαριώτης,
+								ὢν ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="4">
-							<p> συνελάλησε τοῖς ἀρχιερεῦσιν καὶ τοῖς <app type="variants">
+							<p>
+								συνελάλησε τοῖς ἀρχιερεῦσιν καὶ τοῖς
+								<app type="variants">
 									<lem resp="#Zahn">
-										τοῖς</lem>
+										τοῖς
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										τοῖς</rdg>
+										τοῖς
+									</rdg>
 								</app>
-								στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς. </p>
+								στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="5">
 							<p>
@@ -5215,13 +5676,19 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="8">
-							<p> καὶ εἶπε τῷ Πέτρῳ καὶ τοῖς λοιποῖς·
+							<p>
+								καὶ εἶπε τῷ Πέτρῳ καὶ τοῖς λοιποῖς·
 								ἀπελθόντες ἑτοιμάσατε,
-								ἵνα φάγωμεν τὸ πάσχα. </p>
+								ἵνα φάγωμεν τὸ πάσχα.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="14">
-							<p> καὶ ἀνέπεσε καὶ οἱ δώδεκα <pb n="490" />ἀπόστολοι σὺν
-								αὐτῷ. </p>
+							<p>
+								καὶ ἀνέπεσε καὶ οἱ δώδεκα
+								<pb n="490" />
+								ἀπόστολοι σὺν
+								αὐτῷ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="15">
 							<p>
@@ -5229,29 +5696,35 @@
 									καὶ εἶπεν πρὸς αὐτούς·
 									ἐπιθυμίᾳ ἐπεθύμησα
 								</supplied>
-								τὸ πάσχα <supplied reason="omission" source="#EOCM" resp="#MGB">
-								φαγεῖν μεθ᾽ ὑμῶν πρὸ τοῦ με παθεῖν·
+								τὸ πάσχα
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
+									φαγεῖν μεθ᾽ ὑμῶν πρὸ τοῦ με παθεῖν·
 								</supplied>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="19">
 							<pb n="491" />
 							<p>
-								<supplied reason="omission" source="#EOCM" resp="#MGB"> καὶ λαβὼν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
+									καὶ λαβὼν
 									ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων·
 									τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον·
-									τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν. <app type="variants">
-										<lem resp="#Zahn">καὶ λαβὼν ἄρτον εὐχαριστήσας
-									ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων·
+									τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν.
+									<app type="variants">
+										<lem resp="#Zahn">
+											καὶ λαβὼν ἄρτον εὐχαριστήσας
+											ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων·
 											τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν
-									διδόμενον·
-											τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν.</lem>
+											διδόμενον·
+											τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν.
+										</lem>
 										<rdg resp="#Zahn" type="proposition" cert="low">
 											καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ
-									ἔδωκεν αὐτοῖς λέγων·
+											ἔδωκεν αὐτοῖς λέγων·
 											τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν
-									διδόμενον·
-											τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν.</rdg>
+											διδόμενον·
+											τοῦτο ποιεῖτε εἰς ἐμὴν ἀνάμνησιν.
+										</rdg>
 									</app>
 								</supplied>
 							</p>
@@ -5267,13 +5740,21 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="22b">
-							<p> οὐαὶ ἐκείνῳ <app type="variants">
+							<p>
+								οὐαὶ ἐκείνῳ
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐκείνῳ</lem>
+										ἐκείνῳ
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐκείνῳ</rdg>
-								</app> δι᾽
-								οὗ παραδίδοται ὁ υἱὸς τοῦ ἀνθρώπου. </p>
+										ἐκείνῳ
+									</rdg>
+								</app>
+								δι᾽
+								οὗ παραδίδοται ὁ υἱὸς τοῦ ἀνθρώπου
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="31">
 							<p>
@@ -5328,9 +5809,12 @@
 									ἔτι αὐτοῦ λαλοῦντος,
 									ἰδοὺ ὄχλος,
 									καὶ ὁ λεγόμενος Ἰούδας εἷς τῶν δώδεκα προήρχετο
-								αὐτούς,
+									αὐτούς,
 								</supplied>
-								καὶ ἤγγισε καταφιλῆσαι αὐτὸν καὶ εἶπεν. </p>
+								καὶ ἤγγισε καταφιλῆσαι αὐτὸν καὶ εἶπεν
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="52">
 							<p>
@@ -5488,7 +5972,8 @@
 									σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ;
 									ὁ δὲ πρὸς αὐτοὺς ἔφη·
 								</supplied>
-								ὑμεῖς λέγετε. </p>
+								ὑμεῖς λέγετε.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="23">
@@ -5505,19 +5990,27 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες·
 								</supplied>
-								τοῦτον <pb
-									n="492" />ηὕρομεν διαστρέφοντα τὸ ἔθνος καὶ καταλύοντα
-								τὸν νόμον καὶ τοὺς προφήτας, κελεύοντα φόρους μὴ διδόναι
+								τοῦτον
+								<pb n="492" />
+								ηὕρομεν διαστρέφοντα τὸ ἔθνος καὶ καταλύοντα
+								τὸν νόμον καὶ τοὺς προφήτας
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								, κελεύοντα φόρους
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								μὴ διδόναι
 								καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα
-								ἑαυτὸν Χριστὸν βασιλέα. </p>
+								ἑαυτὸν Χριστὸν βασιλέα
+								<gap reason="missing" extent="unknown" source="#Zahn" />
+								.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="3">
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ὁ δὲ Πειλᾶτος ἠρώτησεν αὐτὸν λέγων·
 								</supplied>
-								σὺ εἶ ὁ Χριστός; <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+								σὺ εἶ ὁ Χριστός;
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									ὁ δὲ ἀποκριθεὶς αὐτῷ ἔφη·
 									σὺ λέγεις.
 								</supplied>
@@ -5766,10 +6259,11 @@
 						<div type="textpart" subtype="verse" n="56">
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
-								ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα·
+									ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα·
 									καὶ τὸ μὲν σάββατον ἡσύχασαν
 								</supplied>
-								κατὰ τὸν νόμον. </p>
+								κατὰ τὸν νόμον.
+							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="24">
@@ -5822,11 +6316,14 @@
 									ἀλλὰ ἠγέρθη.
 									μνήσθητε
 								</supplied>
-								ὅσα ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ, </p>
+								ὅσα ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ,
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="7">
-							<p> λέγων ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παραδοθῆναι καὶ
-								σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι. </p>
+							<p>
+								λέγων ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παραδοθῆναι καὶ
+								σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="9">
 							<p>
@@ -5932,26 +6429,36 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="21a">
-							<p> ἡμεις δὲ ἐνομίζομεν,
-								ὅτι αὐτός ἐστιν ὁ λυτρωτὴς τοῦ Ἰσραήλ. </p>
+							<p>
+								ἡμεις δὲ ἐνομίζομεν,
+								ὅτι αὐτός ἐστιν ὁ λυτρωτὴς τοῦ Ἰσραήλ.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="25">
 							<p>
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ αὐτὸς εἶπεν πρὸς αὐτούς·
 								</supplied>
-								ὦ ἀνόητοι καὶ <pb n="494" />βραδεῖς τῇ καρδίᾳ τοῦ
-								πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησεν <app type="variants">
+								ὦ ἀνόητοι καὶ
+								<pb n="494" />
+								βραδεῖς τῇ καρδίᾳ τοῦ
+								πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησεν
+								<app type="variants">
 									<lem resp="#Zahn">
-										ἐλάλησεν</lem>
+										ἐλάλησεν
+									</lem>
 									<rdg resp="#Zahn" type="proposition" cert="low">
-										ἐλάλησεν</rdg>
-								</app> πρὸς
-								ὑμᾶς, </p>
+										ἐλάλησεν
+									</rdg>
+								</app>
+								πρὸς
+								ὑμᾶς,
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="26">
-							<p> ὅτι ἔδει ταῦτα παθεῖν τὸν Χριστὸν <supplied
-									reason="omission" source="#EOCM" resp="#MGB">
+							<p>
+								ὅτι ἔδει ταῦτα παθεῖν τὸν Χριστὸν
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;
 								</supplied>
 							</p>
@@ -5979,7 +6486,8 @@
 								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι
 								</supplied>
-								ἐδόκουν αὐτὸν φάντασμα εἶναι. </p>
+								ἐδόκουν αὐτὸν φάντασμα εἶναι.
+							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="38">
 							<p>
@@ -5992,14 +6500,14 @@
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="39">
-							<p> ἴδετε τὰς χεῖράς μου <supplied reason="omission" source="#EOCM"
-									resp="#MGB">
+							<p>
+								ἴδετε τὰς χεῖράς μου
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καὶ τοὺς πόδας μου,
 									ὅτι ἐγώ εἰμι
 								</supplied>
-								αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει <supplied
-									reason="omission"
-									source="#EOCM" resp="#MGB">
+								αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει
+								<supplied reason="omission" source="#EOCM" resp="#MGB">
 									καθὼς ἐμὲ θεωρεῖτε ἔχοντα.
 								</supplied>
 							</p>
@@ -6028,4 +6536,4 @@
 			</div>
 		</body>
 	</text>
-</TEI> 
+</TEI>
