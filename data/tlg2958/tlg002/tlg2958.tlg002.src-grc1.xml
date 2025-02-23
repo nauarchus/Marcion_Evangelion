@@ -13,7 +13,7 @@
 				<editor ref="https://viaf.org/viaf/22892333">
 					August Hahn
 				</editor>
-				<editor ref="http://viaf.org/viaf/307315499">
+				<editor ref="https://viaf.org/viaf/307315499">
 					Mark Glen Bilby
 				</editor>
 				<principal>
@@ -21,11 +21,11 @@
 				</principal>
 				<respStmt>
 					<resp>
-						Prepared under the supervision of
+						Transcribed, normalized, and encoded by
 					</resp>
-					<name>
+					<persName xml:id="MGB">
 						Mark G. Bilby
-					</name>
+					</persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -50,6 +50,23 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
+					<analytic>
+						<author ref="https://viaf.org/viaf/307315499">
+							Mark G. Bilby
+						</author>
+						<title level="a">
+							Normalized Datasets of Hahn's and Zahn's Reconstructions of Marcion's Gospel
+						</title>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<idno type="DOI">
+							10.7910/DVN/BYNHX6
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/BYNHX6">
+							https://doi.org/10.7910/DVN/BYNHX6
+						</ref>
+					</analytic>
 					<analytic>
 						<author ref="https://viaf.org/viaf/22892333">
 							August Hahn
