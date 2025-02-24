@@ -176,7 +176,7 @@
 	</teiHeader>
 	<text xml:lang="grc">
 		<body>
-			<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00203-src-grc1">
+			<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.src-grc3">
 				<div type="textpart" subtype="book" n="Ev">
 					<pb n="183*" />
 					<head>
@@ -186,7 +186,21 @@
 					<div type="textpart" subtype="chapter" n="3">
 						<div type="textpart" subtype="verse" n="1">
 							<p>
-								Ἐν τῷ ιε' ἔτει Τιβερίου Καίσαρος ἐπι τῶν χρόνων Πιλάτου
+								Ἐν τῷ
+								<choice>
+									<expan>
+										πεντεκαιδεκάτῳ
+									</expan>
+									<supplied reason="abbreviation">
+										πεντεκαιδεκάτῳ
+									</supplied>
+									<abbr type="numerical">
+										<num>
+											ιε'
+										</num>
+									</abbr>
+								</choice>
+								ἔτει Τιβερίου Καίσαρος ἐπι τῶν χρόνων Πιλάτου
 							</p>
 						</div>
 					</div>
