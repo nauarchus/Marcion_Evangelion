@@ -29,6 +29,13 @@
          of Marcion's Gospel." Journal of Open Humanities Data 7.24 (2021) 1–7. doi: 10.5334/johd.47</ti:description>
    </ti:edition>
 
+   <ti:edition urn="urn:cts:greekLit:tlg2958.tlg002.src-lat4"
+      workUrn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="lat">
+      <ti:label xml:lang="eng">Gospel of Marcion [Tsutsui]</ti:label>
+      <ti:description xml:lang="eng">Bilby, Mark G. and Kenji Tsutsui. "Tsutsui's Latin 
+      Reconstruction of Marcion’s Gospel." N.p. (2025).</ti:description>
+   </ti:edition>
+
    <ti:edition urn="urn:cts:greekLit:tlg2958.tlg002.src-grc5"
       workUrn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="grc">
       <ti:label xml:lang="eng">Gospel of Marcion [BeDuhn]</ti:label>
