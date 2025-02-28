@@ -10,7 +10,7 @@
 				<author ref="https://viaf.org/viaf/98032732">
 					Marcion of Sinope
 				</author>
-				<editor ref="https://viaf.org/viaf/9886393/">
+				<editor xml:id="Harnack" ref="https://viaf.org/viaf/9886393/">
 					Adolf von Harnack
 				</editor>
 				<editor ref="http://viaf.org/viaf/307315499">
@@ -50,7 +50,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
-					<analytic>
+					<monogr>
 						<author ref="https://viaf.org/viaf/9886393">
 							Adolf von Harnack
 						</author>
@@ -63,11 +63,6 @@
 						<ref target="https://n2t.net/ark:/13960/t3611sv4v">
 							https://n2t.net/ark:/13960/t3611sv4v
 						</ref>
-					</analytic>
-					<monogr>
-						<title level="m">
-							Marcion: Das Evangelium vom Fremden Gott
-						</title>
 						<idno type="LC">
 							4964885
 						</idno>
@@ -99,28 +94,6 @@
 					</monogr>
 				</biblStruct>
 				<listBibl>
-					<bibl xml:id="Harnack">
-						<title level="m">
-							Marcion: Das Evangelium vom Fremden Gott
-						</title>
-						<idno type="LC">
-							4964885
-						</idno>
-						<respStmt>
-							<resp>
-								von
-							</resp>
-							<name>
-								Adolf von Harnack
-							</name>
-						</respStmt>
-						<biblScope unit="edition">
-							2
-						</biblScope>
-						<biblScope unit="page">
-							183*-240*
-						</biblScope>
-					</bibl>
 					<bibl xml:id="EOCM">
 						<abbr type="siglum">
 							EOCM
