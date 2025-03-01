@@ -10,10 +10,10 @@
 				<author ref="https://viaf.org/viaf/98032732">
 					Marcion of Sinope
 				</author>
-				<editor ref="http://viaf.org/viaf/61687528">
+				<editor xml:id="BeDuhn" ref="http://viaf.org/viaf/61687528">
 					Jason David BeDuhn
 				</editor>
-				<editor ref="http://viaf.org/viaf/307315499">
+				<editor xml:id="MGB" ref="http://viaf.org/viaf/307315499">
 					Mark Glen Bilby
 				</editor>
 				<principal>
@@ -55,24 +55,13 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
-					<analytic>
+					<monogr>
 						<author ref="http://viaf.org/viaf/61687528">
 							Jason David BeDuhn
 						</author>
 						<editor ref="http://viaf.org/viaf/307315499">
 							Mark Glen Bilby
 						</editor>
-						<title level="s">
-							Greek Edition of the First New Testament
-						</title>
-						<idno type="doi">
-							10.7910/DVN/UQVGW6
-						</idno>
-						<ref target="https://doi.org/10.7910/DVN/UQVGW6">
-							https://doi.org/10.7910/DVN/UQVGW6
-						</ref>
-					</analytic>
-					<monogr>
 						<title level="j">
 							Journal of Open Humanities Data
 						</title>
@@ -85,6 +74,12 @@
 						<idno type="issn">
 							2059-481X
 						</idno>
+						<idno type="doi">
+							10.7910/DVN/UQVGW6
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/UQVGW6">
+							https://doi.org/10.7910/DVN/UQVGW6
+						</ref>
 						<respStmt>
 							<resp>
 								by
@@ -109,11 +104,17 @@
 						</biblScope>
 					</monogr>
 					<monogr>
+						<author ref="http://viaf.org/viaf/61687528">
+							Jason David BeDuhn
+						</author>
+						<author ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</author>
 						<title level="j">
 							Journal of Open Humanities Data
 						</title>
 						<title level="a">
-							BeDuhn's Greek Reconstruction of Marcion's Gospel."
+							BeDuhn's Greek Reconstruction of Marcion's Gospel.
 						</title>
 						<idno type="issn">
 							2059-481X
