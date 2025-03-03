@@ -25,7 +25,7 @@ The files in this repository all adopt the cts_urn author identifer prefix for M
 | A. Hahn              | grc  | 1832      | tlg2958.tlg002.src-grc1  |
 | T. Zahn            | grc  | 1892      | tlg2958.tlg002.src-grc2  | 
 | A. von Harnack       | grc  | 1924      | tlg2958.tlg002.src-grc3  | 
-| K. Tsutsui           | lat  | 1992      | tlg2958.tlg002.src-grc4  |
+| K. Tsutsui           | lat  | 1992      | tlg2958.tlg002.src-lat4  |
 | J. D. BeDuhn         | grc  | 2023      | tlg2958.tlg002.src-grc5  | 
 | D. T. Roth          | grc  | 2015      | tlg2958.tlg002.src-grc6  | 
 | M. Klinghardt        | grc  | 2021      | tlg2958.tlg002.src-grc7  |
