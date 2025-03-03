@@ -10,11 +10,11 @@ See the [License](https://github.com/nauarchus/Marcion_Evangelion/blob/main/LICE
 
 Each dataset typically has four manifestations:
 * .txt file with human-readable Greek and each verse having its own row
-* .txt file with words lemmatized and morphologically tagged following the BibleWorks Greek Morphology schema
+* .txt file with words lemmatized and morphologically tagged following the BibleWorks Greek Morphology (BGM) schema, a slightly revised version of the UPenn Computer Assisted Tools for Septuagint/Scriptural Studies (CATSS) schema
 * .xml file formatted according to the conventions of the Perseus Digital Library and/or Patristic Text Archive
 * .csv "sprout" file that combines the three types of data above, assigning tokens to punctuation for sentence segmentation
 
-All datasets use UTF-8 encoding and decomposed Unicode characters. When comparing these datasets with datasets that use composed unicode characters, it may be necessary to convert between composed and decomposed characters for best results.
+All datasets use UTF-8 encoding and composed Unicode (NFC) characters, following Perseus conventions.
 
 ## File Names and CTS_URN Conventions
 
