@@ -13,7 +13,7 @@
 				<editor ref="http://viaf.org/viaf/312619386">
 					Andrea Nicolotti
 				</editor>
-				<editor xml:id="MGB" ref="http://viaf.org/viaf/307315499">
+				<editor ref="http://viaf.org/viaf/307315499">
 					Mark Glen Bilby
 				</editor>
 				<principal>
@@ -23,7 +23,7 @@
 					<resp>
 						Prepared under the supervision of
 					</resp>
-					<name>
+					<name xml:id="MGB">
 						Mark G. Bilby
 					</name>
 				</respStmt>
@@ -58,6 +58,69 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
+					<analytic>
+						<author ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</author>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<title level="a">
+							Normalized Datasets of Klinghardt's and Nicolotti's Reconstructions of Marcion's Gospel
+						</title>
+						<idno type="issn">
+							2059-481X
+						</idno>
+						<idno type="doi">
+							10.7910/DVN/JGL7LB
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/JGL7LB">
+							https://doi.org/10.7910/DVN/JGL7LB
+						</ref>
+						<idno type="doi">
+							10.5334/johd.70
+						</idno>
+						<ref target="https://doi.org/10.5334/johd.70">
+							https://doi.org/10.5334/johd.70
+						</ref>
+					</analytic>
+					<monogr>
+						<author ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</author>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<title level="a">
+							Normalized Datasets of Klinghardt's and Nicolotti's Reconstructions of Marcion's Gospel
+						</title>
+						<idno type="issn">
+							2059-481X
+						</idno>
+						<idno type="doi">
+							10.5334/johd.70
+						</idno>
+						<ref target="https://doi.org/10.5334/johd.70">
+							https://doi.org/10.5334/johd.70
+						</ref>
+						<idno type="doi">
+							10.7910/DVN/JGL7LB
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/JGL7LB">
+							https://doi.org/10.7910/DVN/JGL7LB
+						</ref>
+						<imprint>
+							<publisher>
+								Ubiquity Press
+							</publisher>
+							<date>
+								2021
+							</date>
+						</imprint>
+						<biblScope unit="page">
+							1-6
+						</biblScope>
+					</monogr>
 					<monogr>
 						<author xml:id="Nicolotti" ref="http://viaf.org/viaf/312619386">
 							Andrea Nicolotti
@@ -98,52 +161,6 @@
 						</imprint>
 						<biblScope unit="page">
 							2-204
-						</biblScope>
-					</monogr>
-					<monogr>
-						<author ref="http://viaf.org/viaf/307315499">
-							Mark Glen Bilby
-						</author>
-						<title level="j">
-							Journal of Open Humanities Data
-						</title>
-						<title level="a">
-							Normalized Datasets of Klinghardt's and Nicolotti's
-							Reconstructions of Marcion's Gospel."
-						</title>
-						<idno type="issn">
-							2059-481X
-						</idno>
-						<idno type="doi">
-							10.5334/johd.70
-						</idno>
-						<ref target="https://doi.org/10.5334/johd.70">
-							https://doi.org/10.5334/johd.70
-						</ref>
-						<idno type="doi">
-							10.7910/DVN/JGL7LB
-						</idno>
-						<ref target="https://doi.org/10.7910/DVN/JGL7LB">
-							https://doi.org/10.7910/DVN/JGL7LB
-						</ref>
-						<respStmt>
-							<resp>
-								by
-							</resp>
-							<name>
-								Mark G. Bilby
-							</name>
-						</respStmt>
-						<imprint>
-							<publisher>
-								Ubiquity Press
-							</publisher>
-							<date>
-								2021
-							</date>
-						</imprint>
-						<biblScope unit="page">
-							1-6
 						</biblScope>
 					</monogr>
 				</biblStruct>

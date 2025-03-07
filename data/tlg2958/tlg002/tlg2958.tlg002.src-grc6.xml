@@ -46,7 +46,7 @@
 					<p>
 						© 2025 Mark G. Bilby.
 						Those wishing to make commercial and/or derivative use of this data
-						should send inquiries to Brill Publishers as 
+						should send inquiries to Brill Publishers as
 						the copyright holder of the original print work
 						and to Mark G. Bilby as the copyright holder of the normalized datasets
 						in order to request permissions.
@@ -56,6 +56,54 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
+					<analytic>
+						<author xml:id="MGB" ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</author>
+						<title level="a">
+							Normalized Datasets of Roth's Reconstruction of Marcion's Gospel
+						</title>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<idno type="issn">
+							2059-481X
+						</idno>
+						<idno type="doi">
+							10.5334/johd.57
+						</idno>
+						<ref target="https://doi.org/10.5334/johd.57">
+							https://doi.org/10.5334/johd.57
+						</ref>
+						<date>
+							2021
+						</date>
+					</analytic>
+					<monogr>
+						<author ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</author>
+						<title level="a">
+							Normalized Datasets of Roth's Reconstruction of Marcion's Gospel
+						</title>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<idno type="doi">
+							10.7910/DVN/BYPOOR
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/BYPOOR">
+							https://doi.org/10.7910/DVN/BYPOOR
+						</ref>
+						<imprint>
+							<publisher>
+								Ubiquity Press
+							</publisher>
+							<date>
+								2021
+							</date>
+						</imprint>
+					</monogr>
 					<monogr>
 						<author xml:id="Roth" ref="http://viaf.org/viaf/306288551">
 							Dieter T. Roth
@@ -93,51 +141,6 @@
 						</imprint>
 						<biblScope unit="page">
 							412-436
-						</biblScope>
-					</monogr>
-					<monogr>
-						<author xml:id="MGB" ref="http://viaf.org/viaf/307315499">
-							Mark Glen Bilby
-						</author>
-						<title level="a">
-							Normalized Datasets of Roth's Reconstruction of Marcion's Gospel
-						</title>
-						<title level="j">
-							Journal of Open Humanities Data
-						</title>
-						<idno type="issn">
-							2059-481X
-						</idno>
-						<idno type="doi">
-							10.5334/johd.57
-						</idno>
-						<ref target="https://doi.org/10.5334/johd.57">
-							https://doi.org/10.5334/johd.57
-						</ref>
-						<idno type="doi">
-							10.7910/DVN/BYPOOR
-						</idno>
-						<ref target="https://doi.org/10.7910/DVN/BYPOOR">
-							https://doi.org/10.7910/DVN/BYPOOR
-						</ref>
-						<respStmt>
-							<resp>
-								by
-							</resp>
-							<name>
-								Mark G. Bilby
-							</name>
-						</respStmt>
-						<imprint>
-							<publisher>
-								Ubiquity Press
-							</publisher>
-							<date>
-								2021
-							</date>
-						</imprint>
-						<biblScope unit="page">
-							1-6
 						</biblScope>
 					</monogr>
 				</biblStruct>
@@ -627,7 +630,7 @@
 										εἶπεν αὐτῷ
 									</rdg>
 								</app>
-								· 
+								·
 								ἀκολούθει μοι
 								<app type="variants">
 									<lem resp="#Roth">
@@ -668,7 +671,7 @@
 								·
 								οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ καὶ δεήσεις ποιοῦνται
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								, 
+								,
 								οἱ δὲ σοὶ
 								<app type="variants">
 									<lem resp="#Roth">
@@ -1217,7 +1220,7 @@
 										τῶν
 									</rdg>
 								</app>
-								ἀνθρώπων, 
+								ἀνθρώπων,
 								οὕτως καὶ ὑμεῖς ποιεῖτε αῦτοις
 								<app type="variants">
 									<lem resp="#Roth">
@@ -1377,7 +1380,7 @@
 										ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας αὐτοῦ προφέρει τὸ ἀγαθόν
 									</rdg>
 								</app>
-								, 
+								,
 								καὶ ὁ πονηρὸς ἐκ τοῦ πονηροῦ προφέρει τὸ πονηρόν
 								<app type="variants">
 									<lem resp="#Roth">
@@ -1628,7 +1631,7 @@
 										οὐδείς ἐστίν
 									</rdg>
 								</app>
-								· 
+								·
 								ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τοῦ θεοῦ μείζων αὐτοῦ ἐστιν
 								<app type="variants">
 									<lem resp="#Roth">
@@ -1820,7 +1823,7 @@
 								πῶς ἀκούετε·
 								ὅς
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								ἂν ἔχῃ δοθήσεται αὐτῷ· 
+								ἂν ἔχῃ δοθήσεται αὐτῷ·
 								καί
 								<app type="variants">
 									<lem resp="#Roth">
@@ -1886,7 +1889,7 @@
 								</app>
 								αὐτῶν ἀφύπνωσεν
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								, 
+								,
 								λαῖλαψ ἀνέμου εἰς τὴν λίμνην
 								<app type="variants">
 									<lem resp="#Roth">
@@ -2057,7 +2060,7 @@
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								τοῦ ἱματίου αὐτοῦ
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								, 
+								,
 								ἔστη ἡ ῥύσις τοῦ αἵματος αὐτῆς
 								<app type="variants">
 									<lem resp="#Roth">
@@ -2092,7 +2095,7 @@
 										οἱ μαθηταί
 									</rdg>
 								</app>
-								· 
+								·
 								ἐπιστάτα οἱ ὄχλοι συνέχουσίν σε καὶ ἀποθλίβουσιν;
 								<app type="variants">
 									<lem resp="#Roth">
@@ -2143,7 +2146,7 @@
 										συγκαλεσάμενος δὲ τοὺς δώδεκα
 									</rdg>
 								</app>
-								, 
+								,
 								ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν.
 								<app type="variants">
 									<lem resp="#Roth">
@@ -2891,8 +2894,8 @@
 						</div>
 						<div type="textpart" subtype="verse" n="24">
 							<p>
-								λέγω γὰρ ὑμῖν ὅτι 
-								(προφῆται οὐκ εἴδαν), 
+								λέγω γὰρ ὑμῖν ὅτι
+								(προφῆται οὐκ εἴδαν),
 								(ἃ ὑμεις βλέπετε).
 							</p>
 						</div>
@@ -2981,7 +2984,7 @@
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								ἐν τόπῳ τινὶ προσευχόμενον
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								, 
+								,
 								εἶπέν
 								<app type="variants">
 									<lem resp="#Roth">
@@ -3063,9 +3066,9 @@
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								·
 								τίς ἐξ ὑμῶν ἕξει φίλον,
-								καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου, 
+								καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου,
 								(καὶ εἴπῃ αὐτῷ)·
-								(φίλε χρῆσόν μοι) 
+								(φίλε χρῆσόν μοι)
 								τρεῖς ἄρτους;
 							</p>
 						</div>
@@ -3568,7 +3571,7 @@
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								τοῖς νομικοῖς·
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								τὴν κλεῖδα τῆς γνώσεως, 
+								τὴν κλεῖδα τῆς γνώσεως,
 								αὐτοὶ οὐκ εἰσήλθατε καὶ τοὺς εἰσερχομένους ἐκωλύσατε
 								<app type="variants">
 									<lem resp="#Roth">
@@ -3700,7 +3703,7 @@
 										γὰρ
 									</rdg>
 								</app>
-								ὑμῖν πᾶς ὅς ὁμολογήσει μέ τῶν ἀνθρώπων, 
+								ὑμῖν πᾶς ὅς ὁμολογήσει μέ τῶν ἀνθρώπων,
 								ὁμολογήσω
 								<app type="variants">
 									<lem resp="#Roth">
@@ -4262,7 +4265,7 @@
 										ἐπὶ
 									</rdg>
 								</app>
-								υἱῷ καὶ υἱὸς ἐπὶ πατρί, 
+								υἱῷ καὶ υἱὸς ἐπὶ πατρί,
 								καὶ
 								<app type="variants">
 									<lem resp="#Roth">
@@ -4912,7 +4915,7 @@
 								ὑμεις ἐστὲ οἱ δικαιοῦντες ἑαυτοὺς ἐνώπιον τῶν ἀνθρώπων
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								.
-								ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν, 
+								ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν,
 								τὸ ὑψηλὸν ἐστιν παρὰ ἀνθρώποις βδέλυγμα ἐστιν τῷ θεῷ
 								<app type="variants">
 									<lem resp="#Roth">
@@ -5290,7 +5293,7 @@
 								</app>
 								ἁμαρτήσῃ εἴς σε
 								<gap reason="missing" extent="unknown" source="#Roth" />
-								, 
+								,
 								ἀφήσεις
 								<app type="variants">
 									<lem resp="#Roth">
@@ -6537,7 +6540,7 @@
 										κακῶν
 									</rdg>
 								</app>
-								· 
+								·
 								αὐταὶ
 								<app type="variants">
 									<lem resp="#Roth">
@@ -7231,10 +7234,10 @@
 						</div>
 						<div type="textpart" subtype="verse" n="46">
 							<p>
-								καὶ φωνήσας φωνῇ μεγάλῃ 
+								καὶ φωνήσας φωνῇ μεγάλῃ
 								(ὁ Ἰησοῦς εἶπε)·
 								πάτερ,
-								(εἰς χεῖράς σου παραθήσομαι τὸ πνεῦμά μου), 
+								(εἰς χεῖράς σου παραθήσομαι τὸ πνεῦμά μου),
 								τοῦτο
 								<gap reason="missing" extent="unknown" source="#Roth" />
 								εἰπὼν ἐξέπνευσεν.

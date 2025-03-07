@@ -13,7 +13,7 @@
 				<editor xml:id="BeDuhn" ref="http://viaf.org/viaf/61687528">
 					Jason David BeDuhn
 				</editor>
-				<editor xml:id="MGB" ref="http://viaf.org/viaf/307315499">
+				<editor ref="http://viaf.org/viaf/307315499">
 					Mark Glen Bilby
 				</editor>
 				<principal>
@@ -23,7 +23,7 @@
 					<resp>
 						Prepared under the supervision of
 					</resp>
-					<name>
+					<name xml:id="MGB">
 						Mark G. Bilby
 					</name>
 					<name>
@@ -33,7 +33,7 @@
 			</titleStmt>
 			<publicationStmt>
 				<publisher>
-					Clavis Consulting, LLC (Kansas)
+					Clavis Consulting, LLC, Kansas
 				</publisher>
 				<pubPlace>
 					Kansas City, KS, USA
@@ -55,6 +55,38 @@
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
+					<analytic>
+						<author ref="http://viaf.org/viaf/61687528">
+							Jason David BeDuhn
+						</author>
+						<editor ref="http://viaf.org/viaf/307315499">
+							Mark Glen Bilby
+						</editor>
+						<title level="j">
+							Journal of Open Humanities Data
+						</title>
+						<title level="a">
+							BeDuhn's Greek Reconstruction of Marcion's Gospel
+						</title>
+						<idno type="issn">
+							2059-481X
+						</idno>
+						<idno type="doi">
+							10.5334/johd.126
+						</idno>
+						<ref target="https://doi.org/10.5334/johd.126">
+							https://doi.org/10.5334/johd.126
+						</ref>
+						<idno type="doi">
+							10.7910/DVN/UQVGW6
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/UQVGW6">
+							https://doi.org/10.7910/DVN/UQVGW6
+						</ref>
+						<date>
+							2023
+						</date>
+					</analytic>
 					<monogr>
 						<author ref="http://viaf.org/viaf/61687528">
 							Jason David BeDuhn
@@ -107,14 +139,14 @@
 						<author ref="http://viaf.org/viaf/61687528">
 							Jason David BeDuhn
 						</author>
-						<author ref="http://viaf.org/viaf/307315499">
+						<editor ref="http://viaf.org/viaf/307315499">
 							Mark Glen Bilby
-						</author>
+						</editor>
 						<title level="j">
 							Journal of Open Humanities Data
 						</title>
 						<title level="a">
-							BeDuhn's Greek Reconstruction of Marcion's Gospel.
+							BeDuhn's Greek Reconstruction of Marcion's Gospel
 						</title>
 						<idno type="issn">
 							2059-481X
@@ -125,17 +157,12 @@
 						<ref target="https://doi.org/10.5334/johd.126">
 							https://doi.org/10.5334/johd.126
 						</ref>
-						<respStmt>
-							<resp>
-								by
-							</resp>
-							<name>
-								Jason D. BeDuhn
-							</name>
-							<name>
-								Mark G. Bilby
-							</name>
-						</respStmt>
+						<idno type="doi">
+							10.7910/DVN/UQVGW6
+						</idno>
+						<ref target="https://doi.org/10.7910/DVN/UQVGW6">
+							https://doi.org/10.7910/DVN/UQVGW6
+						</ref>
 						<imprint>
 							<publisher>
 								Ubiquity Press
@@ -146,6 +173,45 @@
 						</imprint>
 						<biblScope unit="page">
 							1-6
+						</biblScope>
+					</monogr>
+					<monogr>
+						<author ref="http://viaf.org/viaf/61687528">
+							Jason David BeDuhn
+						</author>
+						<title level="m">
+							The First New Testament: Marcion's Scriptural Canon
+						</title>
+						<title level="a">
+							The Evangelion
+						</title>
+						<idno type="isbn">
+							978-1-59815-131-2
+						</idno>
+						<idno type="ARK">
+							13960/s2vvmhghvr3
+						</idno>
+						<ref target="https://n2t.net/ark:/13960/s2vvmhghvr3">
+							https://n2t.net/ark:/13960/s2vvmhghvr3
+						</ref>
+						<respStmt>
+							<resp>
+								by
+							</resp>
+							<name>
+								Jason D. BeDuhn
+							</name>
+						</respStmt>
+						<imprint>
+							<publisher>
+								Polebridge Press
+							</publisher>
+							<date>
+								2013
+							</date>
+						</imprint>
+						<biblScope unit="page">
+							65-200
 						</biblScope>
 					</monogr>
 				</biblStruct>
@@ -175,8 +241,6 @@
 				</cRefPattern>
 			</refsDecl>
 		</encodingDesc>
-		<profileDesc>
-		</profileDesc>
 	</teiHeader>
 	<text xml:lang="grc">
 		<body>
@@ -188,15 +252,21 @@
 					<div type="textpart" subtype="chapter" n="3">
 						<div type="textpart" subtype="verse" n="1">
 							<p>
-								ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας
+								<s xml:id="Ev3.1">
+									ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας
+								</s>
 							</p>
 						</div>
 					</div>
 					<div type="textpart" subtype="chapter" n="4">
 						<div type="textpart" subtype="verse" n="31">
 							<p>
-								ὁ Ἰησοῦς κατῆλθεν εἰς Καφαρναοὺμ πόλιν τῆς Γαλιλαίας.
-								καὶ ἦν διδάσκων αὐτοὺς ἐν τῇ συναγωγῇ·
+								<s xml:id="Ev4.31" corresp="#Ev3.1">
+									ὁ Ἰησοῦς κατῆλθεν εἰς Καφαρναοὺμ πόλιν τῆς Γαλιλαίας.
+								</s>
+								<s>
+									καὶ ἦν διδάσκων αὐτοὺς ἐν τῇ συναγωγῇ·
+								</s>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="32">
@@ -206,15 +276,22 @@
 						</div>
 						<div type="textpart" subtype="verse" n="33">
 							<p>
-								καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου καὶ ἀνέκραξεν φωνῇ μεγάλῃ·
+								καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου,
+								καὶ ἀνέκραξεν φωνῇ μεγάλῃ·
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="34">
 							<p>
-								τί ἡμῖν καὶ σοί Ἰησοῦ;
-								ἦλθες ἀπολέσαι ἡμᾶς;
-								οἶδα σε τίς εἶ·
-								ὁ ἅγιος τοῦ θεοῦ.
+								<s>
+									τί ἡμῖν καὶ σοί Ἰησοῦ;
+								</s>
+								<s>
+									ἦλθες ἀπολέσαι ἡμᾶς;
+								</s>
+								<s>
+									οἶδα σε τίς εἶ,
+									ὁ ἅγιος τοῦ θεοῦ.
+								</s>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="35">
@@ -226,19 +303,24 @@
 						</div>
 						<div type="textpart" subtype="verse" n="16">
 							<p>
-								καὶ ἦλθεν εἰς Ναζαρά ὅπου ἦν κατὰ τὸ εἰωθὸς ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγὴν.
+								καὶ ἦλθεν εἰς Ναζαρά,
+								ὅπου ἦν κατὰ τὸ εἰωθὸς ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγὴν.
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="23">
 							<p>
-								καὶ εἶπεν πρὸς αὐτούς·
-								πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην·
-								ἰατρέ θεράπευσον σεαυτόν —
-								<supplied reason="omission" resp="#BeDuhn">
-									ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ
-									ποίησον καὶ ὧδε
-								</supplied>
-								—
+								<s>
+									καὶ εἶπεν πρὸς αὐτούς·
+								</s>
+								<s>
+									πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην·
+									ἰατρέ θεράπευσον σεαυτόν —
+									<supplied reason="omission" resp="#BeDuhn">
+										ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ
+										ποίησον καὶ ὧδε
+									</supplied>
+									—
+								</s>
 								<gap reason="missing" extent="unknown" source="#BeDuhn" />
 								.
 							</p>
@@ -260,7 +342,7 @@
 							<p>
 								<gap reason="missing" extent="unknown" source="#BeDuhn" />
 								<supplied reason="omission" resp="#BeDuhn">
-									ἀσθενοῦντας νόσοις ποικίλαις
+									ἀσθενοῦντας νόσοις ποικίλαις,
 								</supplied>
 								<gap reason="missing" extent="unknown" source="#BeDuhn" />
 								<gap reason="missing" extent="unknown" source="#BeDuhn" />
@@ -269,23 +351,32 @@
 						</div>
 						<div type="textpart" subtype="verse" n="41">
 							<p>
-								ἐξήρχοντο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κραυγάζοντα
-								καὶ λέγοντα ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ.
-								καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν.
+								<s>
+									ἐξήρχοντο δὲ καὶ δαιμόνια ἀπὸ πολλῶν,
+									κραυγάζοντα καὶ λέγοντα,
+									ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ.
+								</s>
+								<s>
+									καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν.
+								</s>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="42">
 							<p>
-								γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον.
-								καὶ οἱ ὄχλοι ἐπεζήτουν αὐτὸν,
-								καὶ ἦλθον ἕως αὐτοῦ,
-								καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ᾽ αὐτῶν.
+								<s>
+									γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον.
+								</s>
+								<s>
+									καὶ οἱ ὄχλοι ἐπεζήτουν αὐτὸν,
+									καὶ ἦλθον ἕως αὐτοῦ,
+									καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ᾽ αὐτῶν.
+								</s>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="43">
 							<p>
-								ὁ δὲ εἶπεν πρὸς αὐτοὺς ὅτι
-								καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ
+								ὁ δὲ εἶπεν πρὸς αὐτοὺς,
+								ὅτι καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ
 								<gap reason="missing" extent="unknown" source="#BeDuhn" />
 								.
 							</p>
@@ -333,13 +424,19 @@
 						</div>
 						<div type="textpart" subtype="verse" n="10">
 							<p>
-								ὁμοίως δὲ
-								<gap reason="missing" extent="unknown" source="#BeDuhn" />
-								υἱοὺς Ζεβεδαίου
-								<gap reason="missing" extent="unknown" source="#BeDuhn" />
-								.
-								καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς·
-								μὴ φοβοῦ ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν.
+								<s>
+									ὁμοίως δὲ
+									<gap reason="missing" extent="unknown" source="#BeDuhn" />
+									υἱοὺς Ζεβεδαίου
+									<gap reason="missing" extent="unknown" source="#BeDuhn" />
+									.
+								</s>
+								<s>
+									καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς·
+								</s>
+								<s>
+									μὴ φοβοῦ ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν.
+								</s>
 							</p>
 						</div>
 						<div type="textpart" subtype="verse" n="11">
