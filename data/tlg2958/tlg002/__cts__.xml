@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2958"
+   projid="greekLit:tlg2958" urn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="grc">
+
+   <ti:title xml:lang="eng">Gospel of Marcion</ti:title>
+   <ti:title xml:lang="lat">Evangelium Marcionis</ti:title>
+   <ti:title xml:lang="deu">Evangelium Marcions</ti:title>
+   <ti:title xml:lang="fra">Évangile de Marcion</ti:title>
+
+   <ti:author xml:lang="eng">Marcion of Sinope</ti:author>
+   <ti:author xml:lang="lat">Marcion Sinopensis</ti:author>
+   <ti:author xml:lang="deu">Marcion von Sinope</ti:author>
+   <ti:author xml:lang="fra">Marcion de Sinope</ti:author>
+
+   <ti:edition urn="urn:cts:greekLit:tlg2958.tlg002.src-grc1"
+      workUrn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="grc">
+      <ti:editor xml:lang="eng">August Hahn</ti:editor>
+      <ti:editor xml:lang="eng">Mark G. Bilby</ti:editor>
+      <ti:label xml:lang="eng">Gospel of Marcion [Hahn]</ti:label>
+      <ti:description xml:lang="eng">Bilby, Mark G. "Normalized Datasets of Hahn's and Zahn's
+         Reconstructions of Marcion's Gospel." Journal of Open Humanities Data 7.31 (2021) 1–5. doi:
+         10.5334/johd.63</ti:description>
+   </ti:edition>
+
+   <ti:edition urn="urn:cts:greekLit:tlg2958.tlg002.src-grc2"
+      workUrn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="grc">
+      <ti:editor xml:lang="eng">Theodor Zahn</ti:editor>
+      <ti:editor xml:lang="eng">Mark G. Bilby</ti:editor>
+      <ti:label xml:lang="eng">Gospel of Marcion [Zahn]</ti:label>
+      <ti:description xml:lang="eng">Bilby, Mark G. "Normalized Datasets of Hahn's and Zahn's
+         Reconstructions of Marcion's Gospel." Journal of Open Humanities Data 7.31 (2021) 1–5. doi:
+         10.5334/johd.63 </ti:description>
+   </ti:edition>
+
+   <ti:edition urn="urn:cts:greekLit:tlg2958.tlg002.src-grc3"
+      workUrn="urn:cts:greekLit:tlg2958.tlg002" xml:lang="grc">
+      <ti:editor xml:lang="eng">Adolf von Harnack</ti:editor>
+      <ti:editor xml:lang="eng">Mark G. Bilby</ti:editor>
+      <ti:label xml:lang="eng">Gospel of Marcion [Harnack]</ti:label>
+      <ti:description xml:lang="eng">Bilby, Mark G. "Normalized Datasets of Harnack's Reconstruction
+         of Marcion's Gospel." Journal of Open Humanities Data 7.24 (2021) 1–7. doi: 10.5334/johd.47</ti:description>
+   </ti:edition>
+
+</ti:work>

@@ -1,0 +1,5 @@
+data/tlg2958/__cts__.xml
+data/tlg2958/tlg002/__cts__.xml
+data/tlg2958/tlg002/tlg2958.tlg002.src-grc1.xml
+data/tlg2958/tlg002/tlg2958.tlg002.src-grc2.xml
+data/tlg2958/tlg002/tlg2958.tlg002.src-grc3.xml
